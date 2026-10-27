@@ -1,39 +1,37 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-033 / 闻舟
-Wenzhou
+FILE X-033 / XIKM
+XIKM
 
 归属：人物
-编目范围：闻舟
-相关人物：MIST · ADsurfb0ard
-访问范围：CORE
+编目范围：XIKM
+相关人物：LAST SAVE BEFORE RAIN · 闻舟
+访问范围：KEY
 
-档案文明多组材料中反复出现的名字，至少对应档案员、录像者甲的旧友、英国学者三个互不相同的人。
+档案文明材料的接收者、整理者或中转者，即 B 站账号 XIKM_HLQA_ONYIEN 的运营者。
 
 推演链（推断链）
-同名是本站记录得最克制的一条：三个身份分开写，拒绝合并。
+判定 XIKM 是「中转口」靠的不是身份描述，而是他做的事：只在交接处出现。
 
-1. 档案员：FULL DIALOGUE 表头「源记录时档案员状态：在职」
-   → 与彼者完成阈限对话，把这份工作的改变称为「成为半神」
-2. 旧友：WEST 里反复阻止录像者甲过河
-   → 留下苔藓/铁/石头/火把四词，冷开场在微信里问「那现在删什么」
-3. 英国学者：出现在另一组调查材料
-   → 身份、经历、活动环境都与旧友不同
-4. 旁证：ABANDON 简介 SOURCE SUBJECT: WENZHOU
-   → 说明来源对象确实叫这个名字，但不区分是哪一个
+1. 行为面：账号发布 WEST / fragment / ABANDON 三个视频
+   → 都是材料交接动作，没有一处是他本人卷入事件
+2. 自述：「我的名字隐藏在 K317 的描述里，但我不是那位档案保管员」
+   → 主动与在职档案员划清界限
+3. 对照：真名 LAST SAVE BEFORE RAIN 由前人留下的密钥解出
+   → 名字本身是被解出来的，说明它服务于别人留下的谜题
 
-未闭合：没有任何一份材料给出两个「闻舟」是同一人的直接证据；未解的是名字为何重复，不是怎样把两人合并。
+未闭合：HLQA ONYIEN 至今没有解出，凯撒、Atbash、倒序均无意义。
 
 附注
-1. 三者是否为同一人没有直接证据，材料里的身份信息互相冲突。
-2. 档案员闻舟研究 ADR，并把这份工作带来的改变称为「成为半神」。
-3. 旧友闻舟留下苔藓、铁、石头、火把四个词，即 MIST。
+1. 账号本名经解谜为 LAST SAVE BEFORE RAIN。
+2. 简介称「我并非那位档案保管员」，与在职档案员闻舟形成对照。
+3. 「HLQA ONYIEN」在凯撒、Atbash、倒序下均未解出，待考。
 
 溯源
-- [WIKI] 闻舟 · 三个身份对照
-  https://xikmwiki.rosmontis220.top/人物/闻舟/
-- [ARCHIVIST] 《FULL DIALOGUE：UNSET ENTER》汉化 PDF
-  https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf
-- [VIDEO] 【WEST】BV15Vub68EGm
-  https://www.bilibili.com/video/BV15Vub68EGm/
+- [WIKI] XIKM · 人物页
+  https://xikmwiki.rosmontis220.top/人物/XIKM/
+- [WIKI] 锚点与投影 · K317
+  https://xikmwiki.rosmontis220.top/世界/锚点与投影/
+- [VIDEO] 【fragment】BV1fnuz6eEh8
+  https://www.bilibili.com/video/BV1fnuz6eEh8/
 
 本文为基于公开材料的档案式改写，非游戏原文。

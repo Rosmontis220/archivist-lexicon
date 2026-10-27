@@ -1,35 +1,39 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-032 / LAST SAVE BEFORE RAIN
-LAST SAVE BEFORE RAIN
+FILE X-032 / 闻舟
+Wenzhou
 
-归属：术语表
-编目范围：术语表
-相关人物：XIKM · MIST
-访问范围：NOTE
+归属：人物
+编目范围：闻舟
+相关人物：MIST · ADsurfb0ard
+访问范围：CORE
 
-XIKM_HLQA_ONYIEN 账号的真名；由补全名经凯撒 0/3/1/7 与维吉尼亚（密钥 mist）解出。
+档案文明多组材料中反复出现的名字，至少对应档案员、录像者甲的旧友、英国学者三个互不相同的人。
 
-推演链（解谜链）
-这是全项目最短也最完整的一条链：三个动作，得到一句像遗言的句子。
+推演链（推断链）
+同名是本站记录得最克制的一条：三个身份分开写，拒绝合并。
 
-1. 补全：动态提示 + 图中字母映射
-   → XIKM_HLQA_ONYIEN_QABC
-2. 凯撒：四词逐词位移 0 / 3 / 1 / 7
-   → XIKM_EINX_NMXHDM_JTUV
-3. 维吉尼亚：密钥 mist（苔藓/铁/石头/火把首字母）
-   → LAST SAVE BEFORE RAIN —— 雨前最后一次存档
+1. 档案员：FULL DIALOGUE 表头「源记录时档案员状态：在职」
+   → 与彼者完成阈限对话，把这份工作的改变称为「成为半神」
+2. 旧友：WEST 里反复阻止录像者甲过河
+   → 留下苔藓/铁/石头/火把四词，冷开场在微信里问「那现在删什么」
+3. 英国学者：出现在另一组调查材料
+   → 身份、经历、活动环境都与旧友不同
+4. 旁证：ABANDON 简介 SOURCE SUBJECT: WENZHOU
+   → 说明来源对象确实叫这个名字，但不区分是哪一个
+
+未闭合：没有任何一份材料给出两个「闻舟」是同一人的直接证据；未解的是名字为何重复，不是怎样把两人合并。
 
 附注
-1. 解谜链：补全 QABC → 凯撒逐词位移 → 以 mist 为密钥解密。
-2. 术语表把它列在「密钥与代码」首条。
-3. 它与首枚邮票「雨前首封」共用「雨前」二字，材料未说明关联。
+1. 三者是否为同一人没有直接证据，材料里的身份信息互相冲突。
+2. 档案员闻舟研究 ADR，并把这份工作带来的改变称为「成为半神」。
+3. 旧友闻舟留下苔藓、铁、石头、火把四个词，即 MIST。
 
 溯源
-- [WIKI] 账号与名字 · 破解链三步
-  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/账号与名字/
-- [WIKI] XIKM · 账号真名
-  https://xikmwiki.rosmontis220.top/人物/XIKM/
-- [DOC] 腾讯文档《XIKM HLQA ONYIEN 解谜》
-  https://docs.qq.com/doc/DZURVVXJkS1NZWFNq
+- [WIKI] 闻舟 · 三个身份对照
+  https://xikmwiki.rosmontis220.top/人物/闻舟/
+- [ARCHIVIST] 《FULL DIALOGUE：UNSET ENTER》汉化 PDF
+  https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf
+- [VIDEO] 【WEST】BV15Vub68EGm
+  https://www.bilibili.com/video/BV15Vub68EGm/
 
 本文为基于公开材料的档案式改写，非游戏原文。

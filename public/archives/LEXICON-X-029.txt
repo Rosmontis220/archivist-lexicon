@@ -1,42 +1,39 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-029 / 调查维基
-Investigation Wiki
+FILE X-029 / VHQ-4K/19
+VHQ-4K/19
 
-归属：Silverfish_0
-编目范围：Silverfish_0
-相关人物：SILVERFISH_0 · 彼者与GOD
-访问范围：KEY
+归属：世界观
+编目范围：锚点与投影
+相关人物：锚点 · WEST
+访问范围：NOTE
 
-SILVERFISH_0 建立的档案调查维基，v1 二十篇、v2 二十一篇；v3 被覆写为 GOD SAYS。
+系统分配的代号，出现在 WEST 视频简介末尾，后面紧跟一句 has not registered on this platform。
 
 推演链（推断链）
-三个版本的差别本身就是证据：v3 不是续写，是被覆盖。
+这条的结论是靠排除得出的：先证明它不像人名，再说明它像什么。
 
-1. v1：content.js 42KB
-   → 术语表原始版，条目较少
-2. v2：content.js 47KB
-   → 补入十六案卷、缺页索引、十只蠹虫等条目
-3. v3：只剩 app.js，标题改为 GOD SAYS
-   → 展开为 16 种语言启示 + 50 哀歌 + 20 系统错误 + 16 狂热宣言，作者署名被覆盖
-4. 比对文件清单
-   → v1 / v2 结构与体积接近，v3 是另一套程序，说明不是同一次编辑
-5. 线上仓库 tree：5 个文件
-   → 启示、哀歌、错误与宣言全部写在 app.js 里，语言靠 revelations 数组切换；这不是 wiki 程序，是一页装置
+1. 出处
+   → WEST 视频简介末尾单独一行：VHQ-4K/19 与 has not registered on this platform 并排出现
+2. 与 K317 对照
+   → K317 是人给的定位锚，VHQ 是系统分配的代号；两者都能被外部检索到，但归属相反
+3. 反证：当成人名
+   → 没有对应的行为、发言或关系，任何「VHQ 做了什么」都推不出来
+4. 判定
+   → 它是登记失败的地址——有编号、无记录，属于系统侧的一条空条目
+
+未闭合：「系统」是哪一套系统没有说明，也没有第二处出现可作对照，所以只能肯定它不是人名，不能肯定它属于哪一层。
 
 附注
-1. v2 新增《断联协议》，并把《大黄昏预言》重构为《巨爆大黄昏》。
-2. v3 的作者署名被覆盖，标题改为 GOD SAYS。
-3. GOD SAYS 展开为 16 种语言启示、52 哀歌、20 系统错误与 16 狂热宣言。
-4. 线上那份只有五个文件：index.html、app.js、style.css、background.png、god.m4a；没有 md，也没有导航结构。
+1. 形式是「前缀-型号/序号」，和 K317 那种人工写下的地址不是一类。
+2. 判定句说明代号存在，但没在这套系统里登记过。
+3. 把它当人名读会立刻卡住：全部材料里没有它的行为、发言或关系。
 
 溯源
-- [ARCHIVE] 调查维基 v1
-  https://archive.rosmontis220.top/archive/wiki/v1/
+- [WIKI] 锚点与投影 · 已知锚点表
+  https://xikmwiki.rosmontis220.top/世界/锚点与投影/
+- [WIKI] WEST · 视频与解谜链
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/
 - [ARCHIVE] 调查维基 v2
   https://archive.rosmontis220.top/archive/wiki/v2/
-- [ARCHIVE] 调查维基 v3（GOD SAYS）
-  https://archive.rosmontis220.top/archive/wiki/v3/
-- [REPO] 线上页 · GitHub Pages
-  https://silverfish-0.github.io/silverfish-0-investigation-wiki/
 
 本文为基于公开材料的档案式改写，非游戏原文。

@@ -1,0 +1,40 @@
+﻿ARCHIVIST · LEXICON
+FILE X-050 / 系统错误
+SYSTEM ERRORS
+
+归属：Silverfish_0
+编目范围：GOD SAYS
+相关人物：彼者与GOD · 调查维基
+访问范围：NOTE
+
+GOD SAYS 页面底部滚过的一组报错串，共二十条，全英文大写；它把世界观翻译成机器口径，而不是写成叙述。
+
+推演链（推断链）
+这组文本的价值在于它是同一套设定的另一种写法：把术语换成错误码后，能不能对得上，是最好验的交叉点。
+
+1. 读 systemErrors
+   → 20 条，全部大写英文报错串
+2. 按形式归类
+   → 权限（PERMISSION DENIED / ACCESS VIOLATION）、引用（REFERENCE ERROR / UNRESOLVED）、栈（STACK TRACE ABORTED）、内存（MEMORY LEAK）、时间（SYSTEM TIME IS NOT AUTHORITATIVE）、信号（DO NOT ACKNOWLEDGE INBOUND SIGNAL）
+3. 与术语表对照
+   → ERR_ANCHOR_PERMISSION_DENIED ↔ 锚点需登记；E_WITNESS_COLLAPSE ↔ 见证者坍缩；OBSERVER HAS ENTERED THE RECORD ↔ 观察者改动归档
+4. 与启示对照
+   → SKY HAS RETAINED USER SIGNATURE ↔ 启示第六句的「若苍穹忆汝，慎勿应之」，警告与禁令一一对应
+5. 判定
+   → 这不是彩蛋清单，是同一套设定的机器视角；能对上三条术语加一条禁令，说明两处文本共用一套规则
+
+附注
+1. 二十条全是报错格式：权限、引用、栈、内存、时间、信号六类，没有一条是完整句子。
+2. 三条直接借用术语表的词：ERR_ANCHOR_PERMISSION_DENIED、E_WITNESS_COLLAPSE、THE OBSERVER HAS ENTERED THE RECORD。
+3. WARNING: SKY HAS RETAINED USER SIGNATURE 对应启示第六句「若苍穹忆汝，慎勿应之」。
+4. 有一条自指的：THIS FAILURE PRECEDES THE REQUEST——失败发生在请求之前。
+
+溯源
+- [ARCHIVE] 调查维基 v3（GOD SAYS）
+  https://archive.rosmontis220.top/archive/wiki/v3/
+- [REPO] 线上页 · app.js
+  https://silverfish-0.github.io/silverfish-0-investigation-wiki/
+- [WIKI] 世界观 · 术语表
+  https://xikmwiki.rosmontis220.top/世界/术语表/
+
+本文为基于公开材料的档案式改写，非游戏原文。

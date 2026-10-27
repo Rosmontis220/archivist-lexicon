@@ -1,41 +1,37 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-028 / 小游戏三部曲
-GROUP / TRADE / REVIEW
+FILE X-028 / K317
+Anchor K317
 
-归属：档案文明
-编目范围：小游戏三部曲
-相关人物：ABANDON · 调查维基
-访问范围：KEY
+归属：世界观
+编目范围：锚点与投影
+相关人物：锚点 · XIKM
+访问范围：CORE
 
-GROUP（推箱）、TRADE（卡牌）、REVIEW（十六案卷复核）三部相互关联的网页小游戏，以钥匙链相连。
+当前唯一稳定锚，同时是 B 站与抖音的定位锚；XIKM 的名字只出现在它的简介里，正文与人物页都没有直接写出。
 
-推演链（解谜链）
-三部曲是三套完全不同的机制，但密钥共用一套编号规则（ARG-#系列）。
+推演链（推断链）
+K317 不是故事里的地名，是能在平台侧打开、能被外部核验的一处地址；这条链走的就是从文字指引到实际打开。
 
-1. GROUP：推箱，把两个箱子推到两个槽位
-   → 密码 28409163 → 密钥 ARG-#ARCHIVIST-60742
-2. REVIEW：ACCESS KEY 输入 ARG-#REVIEW-73104，129 可解锁中文
-   → 四关：推箱 / 九节管线 / 折叠投影 / 复核台 + 十六案卷
-3. TRADE：红＞黄＞绿＞黑＞红，克制时数值 +2、同色相邻 +1
-   → 赢下四局后拿枪击杀对手，进入真结局
-4. REVIEW 三结局：红黄绿黑提交 / 右下最后一级阶梯按 E / 输入 MISTERY-12345 打 BOSS
-   → ARG-#ARCHIVIST-57940 / MISTERY-12345 / ARG-#TRUTH-3927840
-
-未闭合：GROUP 密码 28409163 的推导过程，原文标注「待作者填写」，至今空白。
+1. 读「已知锚点与定位点」表
+   → K317 被标为当前唯一稳定锚，性质栏写的是 B 站 + 抖音的定位锚
+2. 追 XIKM 的名字
+   → 正文与人物页都没有直接写出，只有一句指引：名字藏在 K317 的描述里
+3. 按指引打开 K317 的两个平台主页
+   → 两处简介一致，末句是「但我不是那位档案保管员」
+4. 判定这条锚为什么算稳定
+   → 它能被外部打开、被不同人重复读到同一段文字——稳定指的是可重复定位，不是内容不变
 
 附注
-1. 钥匙链为 GROUP → TRADE → REVIEW，通向三个结局。
-2. REVIEW 含 94 条隐藏文本，其中「蠹巢」层 14 条。
-3. 三结局分别产出 ARG-#ARCHIVIST-57940 与 MISTERY-12345。
+1. 两个平台的简介指向同一处，落款是「但我不是那位档案保管员」。
+2. 这句话把位置和人明确分开：K317 是地址，档案保管员不在这个地址上。
+3. 锚点的「稳定」指可被重复定位，不是不会变——西侧稳定锚就失效过一次。
 
 溯源
-- [WIKI] REVIEW · 四关与十六案卷
-  https://xikmwiki.rosmontis220.top/档案文明/作品/小游戏三部曲/REVIEW/
-- [WIKI] 三个结局与密钥
-  https://xikmwiki.rosmontis220.top/档案文明/作品/小游戏三部曲/结局/
-- [ARCHIVIST] REVIEW 线上版
-  https://archivist.rosmontis220.top/archive/review-web/
-- [DOC] 腾讯文档《小游戏三部曲解谜》
-  https://docs.qq.com/sheet/DVXB2ZmR1emZEVkhD
+- [WIKI] 锚点与投影 · 已知锚点表
+  https://xikmwiki.rosmontis220.top/世界/锚点与投影/
+- [WIKI] 人物 · XIKM
+  https://xikmwiki.rosmontis220.top/人物/XIKM/
+- [DOC] 腾讯文档《XIKM HLQA ONYIEN 解谜》
+  https://docs.qq.com/doc/DZURVVXJkS1NZWFNq
 
 本文为基于公开材料的档案式改写，非游戏原文。

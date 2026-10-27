@@ -1,37 +1,33 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-014 / MIST／雾
-MIST
+FILE X-014 / 断联协议
+Blackout Protocol
 
 归属：术语表
 编目范围：术语表
-相关人物：闻舟 · 载体
+相关人物：通讯断联 · 盲续态
 访问范围：KEY
 
-旧友闻舟留下的四词首字母：苔藓（moss）、铁（iron）、石头（stone）、火把（torch）。
+断联期间的行动规则：不把沉默解释成死亡、背叛、拒绝或任务完成；记录只追加、不覆盖。
 
-推演链（解谜链）
-MIST 是全项目复用率最高的密钥，它自己也是被解出来的：四块告示牌的首字母。
+推演链（定义出处）
+断联协议是全站唯一一份「操作规程」，它的每一条都是禁令而不是解释。
 
-1. 起点：WEST 存档里的四块告示牌
-   → 看到苔藓块不要挖 / 地表铁矿不要挖 / 缺口旁边那块石头不要补 / 过最后一根火把就回来
-2. 取四样东西的首字母：moss + iron + stone + torch
-   → MIST（＝雾）
-3. 用它当维吉尼亚密钥解 pack.png ALPHA 通道的密文 EMWW XIKM QQYAF ZWOQZKX
-   → SEED LAST EIGHT REVERSE（种子取最后八位并反转）
-4. 复用：XIKM 真名也用它当密钥
-   → 解出 LAST SAVE BEFORE RAIN
+1. 工具：v2 术语表
+   → 断联期间：不把沉默解释成死亡、背叛、拒绝或任务完成；只追加不覆盖
+2. 为什么是禁令
+   → 沉默本身不含信息，任何解释都是补写；只追加不覆盖保证旧版可对账
+3. 对应制度
+   → 与归档所「保留被推翻旧版」是同一条原则在个人层面的版本
 
 附注
-1. 四词对应 WEST 中「他命名的四样东西」，首字母拼成 MIST。
-2. 以 MIST 为维吉尼亚密钥可解出 SEED LAST EIGHT REVERSE。
-3. 存档告示牌要求不挖苔藓、不挖地表铁、不补石头、过最后一根火把就回来。
+1. 它约束的是解释冲动：沉默本身不构成任何结论。
+2. 「只追加不覆盖」意味着断联期间不修订既有记录。
+3. 它随调查维基 v2 新增，是该版本新增的篇目之一。
 
 溯源
-- [WIKI] WEST · 解谜链与压缩包内二次解谜
-  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/
-- [WIKI] 闻舟 · 旧友留下的四个词
-  https://xikmwiki.rosmontis220.top/人物/闻舟/
-- [ARCHIVIST] ABANDON · FORM 端
-  https://archivist.rosmontis220.top/archive/abandon/form/
+- [ARCHIVE] 调查维基 v2 · 术语表
+  https://archive.rosmontis220.top/archive/wiki/v2/
+- [WIKI] 调查维基 · 术语表
+  https://xikmwiki.rosmontis220.top/世界/术语表/
 
 本文为基于公开材料的档案式改写，非游戏原文。

@@ -1,37 +1,37 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-025 / XIKM HLQA ONYIEN
-XIKM_HLQA_ONYIEN
+FILE X-025 / MIST／雾
+MIST
 
-归属：档案文明
-编目范围：账号与名字
-相关人物：LAST SAVE BEFORE RAIN · XIKM
-访问范围：CORE
+归属：术语表
+编目范围：术语表
+相关人物：闻舟 · 载体
+访问范围：KEY
 
-B 站账号串联起的解谜线，从「少了一块的名字」动态开始，经 WEST、fragment、ABANDON 三个视频展开。
+旧友闻舟留下的四词首字母：苔藓（moss）、铁（iron）、石头（stone）、火把（torch）。
 
 推演链（解谜链）
-账号名本身就是第一道密码：整条链有三步，缺一步都得不到真名。
+MIST 是全项目复用率最高的密钥，它自己也是被解出来的：四块告示牌的首字母。
 
-1. 起点：2026-08-21 动态「My name is missing its last piece — CV」
-   → 按图中字母映射补全为 XIKM_HLQA_ONYIEN_QABC
-2. 凯撒：四个词逐词位移 0 / 3 / 1 / 7
-   → XIKM · EINX · NMXHDM · JTUV
-3. 维吉尼亚：以 mist 为密钥解上一步结果
-   → LAST SAVE BEFORE RAIN
-
-未闭合：「HLQA ONYIEN」在凯撒、Atbash、倒序下都解不出有意义文本，暂按风格化 ID 记录。
+1. 起点：WEST 存档里的四块告示牌
+   → 看到苔藓块不要挖 / 地表铁矿不要挖 / 缺口旁边那块石头不要补 / 过最后一根火把就回来
+2. 取四样东西的首字母：moss + iron + stone + torch
+   → MIST（＝雾）
+3. 用它当维吉尼亚密钥解 pack.png ALPHA 通道的密文 EMWW XIKM QQYAF ZWOQZKX
+   → SEED LAST EIGHT REVERSE（种子取最后八位并反转）
+4. 复用：XIKM 真名也用它当密钥
+   → 解出 LAST SAVE BEFORE RAIN
 
 附注
-1. 补全全名 XIKM_HLQA_ONYIEN_QABC，再经凯撒与维吉尼亚解出真名。
-2. 简介称名字藏在 K317 的描述里，但「我并非那位档案保管员」。
-3. XIKM 更像材料的中转口，而不是任何事件的当事人。
+1. 四词对应 WEST 中「他命名的四样东西」，首字母拼成 MIST。
+2. 以 MIST 为维吉尼亚密钥可解出 SEED LAST EIGHT REVERSE。
+3. 存档告示牌要求不挖苔藓、不挖地表铁、不补石头、过最后一根火把就回来。
 
 溯源
-- [WIKI] 账号与名字 · 完整破解链
-  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/账号与名字/
-- [DOC] 腾讯文档《XIKM HLQA ONYIEN 解谜》
-  https://docs.qq.com/doc/DZURVVXJkS1NZWFNq
-- [VIDEO] B 站 XIKM_HLQA_ONYIEN
-  https://space.bilibili.com/3493126603803061
+- [WIKI] WEST · 解谜链与压缩包内二次解谜
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/
+- [WIKI] 闻舟 · 旧友留下的四个词
+  https://xikmwiki.rosmontis220.top/人物/闻舟/
+- [ARCHIVIST] ABANDON · FORM 端
+  https://archivist.rosmontis220.top/archive/abandon/form/
 
 本文为基于公开材料的档案式改写，非游戏原文。

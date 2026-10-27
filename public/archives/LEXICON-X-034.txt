@@ -1,37 +1,35 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-034 / XIKM
-XIKM
+FILE X-034 / ADsurfb0ard
+AD
 
 归属：人物
-编目范围：XIKM
-相关人物：LAST SAVE BEFORE RAIN · 闻舟
+编目范围：ADsurfb0ard
+相关人物：闻舟 · THE EMPTY SEAT
 访问范围：KEY
 
-档案文明材料的接收者、整理者或中转者，即 B 站账号 XIKM_HLQA_ONYIEN 的运营者。
+本 ARG 玩家之一、秘密论坛 THE EMPTY SEAT 成员，也是【WEST】的主人公，调查维基编号「录像者甲」。
 
 推演链（推断链）
-判定 XIKM 是「中转口」靠的不是身份描述，而是他做的事：只在交接处出现。
+「录像者甲」与「ADsurfb0ard」是两个体系给的编号，指同一个人。
 
-1. 行为面：账号发布 WEST / fragment / ABANDON 三个视频
-   → 都是材料交接动作，没有一处是他本人卷入事件
-2. 自述：「我的名字隐藏在 K317 的描述里，但我不是那位档案保管员」
-   → 主动与在职档案员划清界限
-3. 对照：真名 LAST SAVE BEFORE RAIN 由前人留下的密钥解出
-   → 名字本身是被解出来的，说明它服务于别人留下的谜题
-
-未闭合：HLQA ONYIEN 至今没有解出，凯撒、Atbash、倒序均无意义。
+1. 调查维基给的临时编号：录像者甲
+   → 对 WEST 视频主人公的指称
+2. 论坛账号：ADsurfb0ard
+   → THE EMPTY SEAT 成员
+3. 合并依据：WEST 简介与视频内容
+   → 视频主人公即 AD 本人，且他拿到一份台本并配合完成演出
 
 附注
-1. 账号本名经解谜为 LAST SAVE BEFORE RAIN。
-2. 简介称「我并非那位档案保管员」，与在职档案员闻舟形成对照。
-3. 「HLQA ONYIEN」在凯撒、Atbash、倒序下均未解出，待考。
+1. 他是那座旧 Minecraft 存档的玩家，对旧存档有真实情感依赖。
+2. 重返后发现基地西侧与记忆不符，旧友闻舟多次阻止他过河。
+3. 在【WEST】中他拿到一份台本并配合完成了演出。
 
 溯源
-- [WIKI] XIKM · 人物页
-  https://xikmwiki.rosmontis220.top/人物/XIKM/
-- [WIKI] 锚点与投影 · K317
-  https://xikmwiki.rosmontis220.top/世界/锚点与投影/
-- [VIDEO] 【fragment】BV1fnuz6eEh8
-  https://www.bilibili.com/video/BV1fnuz6eEh8/
+- [WIKI] ADsurfb0ard · 人物页
+  https://xikmwiki.rosmontis220.top/人物/ADsurfb0ard/
+- [WIKI] WEST · 视频说明
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/
+- [ARCHIVE] 调查维基 v2 · 录像者甲
+  https://archive.rosmontis220.top/archive/wiki/v2/
 
 本文为基于公开材料的档案式改写，非游戏原文。

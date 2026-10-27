@@ -1,39 +1,35 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-026 / ABANDON
-ABANDON
+FILE X-026 / 巨爆大黄昏
+Massive-Effect Great Dusk
 
-归属：档案文明
-编目范围：ABANDON发布
-相关人物：投影 · RETAIN 与 THRESHOLD
+归属：术语表
+编目范围：术语表
+相关人物：通讯断联 · 锚域
 访问范围：CORE
 
-2026-08-19 发布的三端解谜游戏；FORM（macOS）、ORDER（Windows）、WITNESS（Android）各 v0.0.0。
+覆盖多个锚域并令跨维通讯完全断联的大规模效应；「巨爆」指影响范围，而非物理爆炸。
 
-推演链（解谜链）
-ABANDON 是三端联动的三层解谜，第四层至今只开了门没进去。
+推演链（定义出处）
+巨爆大黄昏最容易被误读成爆炸，术语表专门为此写了否定说明。
 
-1. 第一层：macOS 记忆排序 / Windows 比较大小 / Android 兔子洞
-   → 三端各得一个 A1 密钥
-2. 第二层：输入另外一端（任选）的 A1，并按同一顺序与四个图案交互
-   → 得三个 A2 密钥
-3. 第三层：输入另外两端的两个 A2
-   → 显示三句话，本端白、另两端灰，随后各产出一个 DAT
-4. 三句话里 FORM WAS NEVER COMPLETE 是提示
-   → 选关界面输入 4 进入隐藏第四关
-
-未闭合：隐藏第四关的密码至今没有解出；三端 DAT 齐备后才能把文件融合进 THRESHOLD。
+1. 工具：v2 术语表
+   → 「覆盖多个锚域并令跨维通讯完全断联的大规模效应」
+2. 关键限定
+   → 「巨爆」指影响范围而非物理爆炸——名字本身是误导读者的地方
+3. 结论
+   → 它是通讯事件，不是物理事件；与通讯断联是规模关系，断联是它在单锚域内的表现
 
 附注
-1. 三端是同一来源对象的三个投影，差异要保留而不是纠正。
-2. 简介标注 ANCHOR COHERENCE: DEGRADED。
-3. 彼者只造了「一条规则」，房间、钥匙与游戏之形由人的机器赋予。
+1. 术语表明确辨析：「巨爆」不是爆炸，而是影响范围的量级。
+2. 调查维基 v2 把《大黄昏预言》重构为《巨爆大黄昏》。
+3. 协助者约定「等下一次的巨爆大黄昏结束，我们将正式碰面」。
 
 溯源
-- [WIKI] ABANDON · 玩法与解谜（三层流程）
-  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/玩法与解谜/
-- [WIKI] 三端 DAT 文本
-  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/
-- [ARCHIVIST] ABANDON · ORDER 端
-  https://archivist.rosmontis220.top/archive/abandon/order/
+- [ARCHIVE] 调查维基 v2 · 术语表
+  https://archive.rosmontis220.top/archive/wiki/v2/
+- [REPO] Silverfish-0/great-dusk-forecast
+  https://github.com/Silverfish-0/great-dusk-forecast
+- [ARCHIVE] 大黄昏预测 forecast v2
+  https://archive.rosmontis220.top/archive/forecast/v2/
 
 本文为基于公开材料的档案式改写，非游戏原文。

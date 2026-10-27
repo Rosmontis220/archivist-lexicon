@@ -1,36 +1,37 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-037 / Mac Trang Phat
-Mac Trang Phat
+FILE X-037 / 星幻_StarRev
+StarRev
 
 归属：人物
-编目范围：Mac Trang Phat
-相关人物：回返 · ABANDON
-访问范围：NOTE
+编目范围：星幻_StarRev
+相关人物：邮路终端 · SILVERFISH_0
+访问范围：KEY
 
-ABANDON WITNESS 端 DAT 记录《EXTERNAL RETURN RECORD 0001》中的留名者，完成过一次状态 ACCEPTED 的 WEST RETURN。
+本 ARG 玩家之一、本 wiki 的建立者与维护者，在剧情中是邮路终端名义上的管理员。
 
 推演链（推断链）
-这个人的全部资料就是一份五行记录，没有第二处出处。
+他是唯一一个同时出现在「剧情内」与「剧情外」的人，两边的证据要分开看。
 
-1. 唯一来源：ABANDON WITNESS 端 DAT
-   → EXTERNAL RETURN RECORD 0001 / NAME RETAINED: Mac Trang Phat / IDENTIFIER RETAINED: 1809982305
-2. 记录字段读法
-   → EVENT: WEST RETURN、STATUS: ACCEPTED——他完成过一次被接受的返航
-3. IDENTIFIER 格式比对
-   → 1809982305 形似即时通讯账号，但未确认指向
-
-未闭合：除这份 DAT 外，全材料再没出现过这个名字，也没有他的任何行为记录。
+1. 剧情内：邮路终端 v1 模板碎片
+   → 碎片里发出自己的 QQ 号，受赠一枚邮票；第二枚邮票以其命名
+2. 剧情内：v2 起与终端有关
+   → 成为邮路终端名义上的管理员
+3. 现实侧：两个档案站的制作者
+   → SILVERFISH_0-Archive 与 ARCHIVIST-Repository 均由他制作，与 Silverfish_0 无关
 
 附注
-1. IDENTIFIER 1809982305 格式像即时通讯账号，指向未确认。
-2. WITNESS 端 DAT 全文仅五行，此外没有他的行为记录。
+1. ID 为其 QQ 用户名，签名出自《废墟图书馆》。
+2. 邮路终端 v1 模板碎片中受赠一枚邮票，第二枚邮票以其命名。
+3. 两个现实侧档案站均由他制作，与 Silverfish_0 无关。
 
 溯源
-- [WIKI] Mac Trang Phat · 人物页
-  https://xikmwiki.rosmontis220.top/人物/Mac Trang Phat/
-- [WIKI] 三端 DAT 文本 · WITNESS
-  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/
-- [ARCHIVIST] ABANDON · WITNESS 端
-  https://archivist.rosmontis220.top/archive/abandon/witness/
+- [WIKI] 星幻_StarRev · 人物页
+  https://xikmwiki.rosmontis220.top/人物/星幻_StarRev/
+- [WIKI] 邮件谜题 · 二 · 星幻_StarRev
+  https://xikmwiki.rosmontis220.top/Silverfish_0/邮路终端/邮件谜题/
+- [ARCHIVE] SILVERFISH_0 档案站首页
+  https://archive.rosmontis220.top/
+- [ARCHIVIST] ARCHIVIST 留档首页
+  https://archivist.rosmontis220.top/
 
 本文为基于公开材料的档案式改写，非游戏原文。

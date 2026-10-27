@@ -1,0 +1,41 @@
+﻿ARCHIVIST · LEXICON
+FILE X-043 / 小游戏三部曲
+GROUP / TRADE / REVIEW
+
+归属：档案文明
+编目范围：小游戏三部曲
+相关人物：ABANDON · 调查维基
+访问范围：KEY
+
+GROUP（推箱）、TRADE（卡牌）、REVIEW（十六案卷复核）三部相互关联的网页小游戏，以钥匙链相连。
+
+推演链（解谜链）
+三部曲是三套完全不同的机制，但密钥共用一套编号规则（ARG-#系列）。
+
+1. GROUP：推箱，把两个箱子推到两个槽位
+   → 密码 28409163 → 密钥 ARG-#ARCHIVIST-60742
+2. REVIEW：ACCESS KEY 输入 ARG-#REVIEW-73104，129 可解锁中文
+   → 四关：推箱 / 九节管线 / 折叠投影 / 复核台 + 十六案卷
+3. TRADE：红＞黄＞绿＞黑＞红，克制时数值 +2、同色相邻 +1
+   → 赢下四局后拿枪击杀对手，进入真结局
+4. REVIEW 三结局：红黄绿黑提交 / 右下最后一级阶梯按 E / 输入 MISTERY-12345 打 BOSS
+   → ARG-#ARCHIVIST-57940 / MISTERY-12345 / ARG-#TRUTH-3927840
+
+未闭合：GROUP 密码 28409163 的推导过程，原文标注「待作者填写」，至今空白。
+
+附注
+1. 钥匙链为 GROUP → TRADE → REVIEW，通向三个结局。
+2. REVIEW 含 94 条隐藏文本，其中「蠹巢」层 14 条。
+3. 三结局分别产出 ARG-#ARCHIVIST-57940 与 MISTERY-12345。
+
+溯源
+- [WIKI] REVIEW · 四关与十六案卷
+  https://xikmwiki.rosmontis220.top/档案文明/作品/小游戏三部曲/REVIEW/
+- [WIKI] 三个结局与密钥
+  https://xikmwiki.rosmontis220.top/档案文明/作品/小游戏三部曲/结局/
+- [ARCHIVIST] REVIEW 线上版
+  https://archivist.rosmontis220.top/archive/review-web/
+- [DOC] 腾讯文档《小游戏三部曲解谜》
+  https://docs.qq.com/sheet/DVXB2ZmR1emZEVkhD
+
+本文为基于公开材料的档案式改写，非游戏原文。

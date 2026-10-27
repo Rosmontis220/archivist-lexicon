@@ -65,19 +65,18 @@ const invalidCases = [
   [
     "unbalanced columns",
     (c) => {
-      // 换到一个与当前分类不同的列，否则这条用例会退化成无改动。
-      c.records[0].category = c.columns.find(
-        (name) => name !== c.records[0].category,
-      );
+      // 抽掉三份人物页并塞进核心概念：前者跌破下限，后者仍在窗口内。
+      const moved = c.records.filter((r) => r.category === "人物").slice(-3);
+      for (const r of moved) r.category = "核心概念";
     },
-    /至少要有 8 份档案/,
+    /分类“人物”：至少要有 8 份档案/,
   ],
   [
     "column below minimum",
     (c) => {
-      c.records.shift();
+      c.records = c.records.filter((r) => r.category !== "人物");
     },
-    /至少要有 8 份档案/,
+    /分类“人物”：至少要有 8 份档案/,
   ],
   [
     "null record",

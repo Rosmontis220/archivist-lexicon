@@ -104,7 +104,7 @@ npm run build:wallpaper
 
 ### 循环阵列与滚动标题
 
-五类、每类八份，共 **40 份档案**。上下翻阅、左右切列均可持续循环；切回某列时保留上次选择。选中抬起与阵列波浪同时开始，标题和编号跟随输入滚动；返回阵列时，档案先转正再下降。
+五类、每类八至十二条，当前共 **51 份档案**。上下翻阅、左右切列均可持续循环；切回某列时保留上次选择。选中抬起与阵列波浪同时开始，标题和编号跟随输入滚动；返回阵列时，档案先转正再下降。
 
 <details>
 <summary><strong>查看动图：切列、翻阅与连续文字滚动</strong></summary>
@@ -228,7 +228,7 @@ BASE_PATH=archivist-lexicon npm run build
 | [`src/decryption.ts`](src/decryption.ts)、[`src/document-decryption.ts`](src/document-decryption.ts) | 模型解密轨迹与正文同步揭示 |
 | [`src/audio.ts`](src/audio.ts)、[`public/audio/`](public/audio/) | 交互音效、三轨配乐与音源记录 |
 | [`src/render-quality.ts`](src/render-quality.ts)、[`src/quality-renderer.ts`](src/quality-renderer.ts) | 画质预设与渲染管线 |
-| [`content/archives.json`](content/archives.json) | 页面与下载共用的五类、40 份档案数据 |
+| [`content/archives.json`](content/archives.json) | 页面与下载共用的五类、51 份档案数据 |
 | [`src/data.ts`](src/data.ts) | 档案类型与阵列位置映射 |
 | [`public/assets/`](public/assets/) | 运行所需的 GLB 模型 |
 | [`public/archives/`](public/archives/) | 导出的档案文本；启动和构建前自动生成 |

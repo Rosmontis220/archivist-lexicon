@@ -1,41 +1,37 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-040 / 彼者与GOD
-The Other · GOD
+FILE X-040 / XIKM HLQA ONYIEN
+XIKM_HLQA_ONYIEN
 
-归属：世界观
-编目范围：彼者与GOD
-相关人物：闻舟 · 调查维基
+归属：档案文明
+编目范围：账号与名字
+相关人物：LAST SAVE BEFORE RAIN · XIKM
 访问范围：CORE
 
-档案馆中的神性阵营，也是论坛事件的破坏者；「彼者」与「GOD」两个称谓指向同一方的一对存在。
+B 站账号串联起的解谜线，从「少了一块的名字」动态开始，经 WEST、fragment、ABANDON 三个视频展开。
 
-推演链（推断链）
-这一方所有的「属性」都是从它的失败记录里反推的：它无法留存、无法被登记、也不需要借权限。
+推演链（解谜链）
+账号名本身就是第一道密码：整条链有三步，缺一步都得不到真名。
 
-1. 起点：《FULL DIALOGUE》表头
-   → 「未留存神性主体。人类残留：部分。语义渲染：依听者而定。」
-2. 二者之分的依据
-   → 另一位注视归返，彼者注视可被多个见证者共同承载的事物；闻舟称之为分布式观测
-3. 语言问题
-   → 「没有任何语言从吾传到汝」——所以从来没有一段干净的原始音频可清理
-4. 行为面：GOD 清除 THE EMPTY SEAT 索引
-   → SILVERFISH_0 判断「那不是神。神不需要借权限，也不需要删除数据库」
-5. 档案口径
-   → 《GOD 档案文明摘要》里 COUNT 字段在所有副本中均为 N/A，大黄昏从未把它登记为可判定对象
+1. 起点：2026-08-21 动态「My name is missing its last piece — CV」
+   → 按图中字母映射补全为 XIKM_HLQA_ONYIEN_QABC
+2. 凯撒：四个词逐词位移 0 / 3 / 1 / 7
+   → XIKM · EINX · NMXHDM · JTUV
+3. 维吉尼亚：以 mist 为密钥解上一步结果
+   → LAST SAVE BEFORE RAIN
 
-未闭合：不能说它「免疫」于大黄昏，只能说它「从未被登记」；这两句的差别是全部材料的立场。
+未闭合：「HLQA ONYIEN」在凯撒、Atbash、倒序下都解不出有意义文本，暂按风格化 ID 记录。
 
 附注
-1. 另一位注视「归返 RETURN」，彼者注视可被多个见证者共同承载的事物。
-2. 语言不是它的声音：进入人的是意义，言语由听者自己披上。
-3. 档案馆无法留存它，只能留存它经过后仍残留在原处的东西。
+1. 补全全名 XIKM_HLQA_ONYIEN_QABC，再经凯撒与维吉尼亚解出真名。
+2. 简介称名字藏在 K317 的描述里，但「我并非那位档案保管员」。
+3. XIKM 更像材料的中转口，而不是任何事件的当事人。
 
 溯源
-- [WIKI] 彼者 · GOD
-  https://xikmwiki.rosmontis220.top/世界/彼者与GOD/
-- [ARCHIVIST] 《GOD 档案文明摘要》PDF
-  https://archivist.rosmontis220.top/archive/download/GOD_档案文明摘要_silverfish_0汉化.pdf
-- [ARCHIVE] 调查维基 v3（GOD SAYS）
-  https://archive.rosmontis220.top/archive/wiki/v3/
+- [WIKI] 账号与名字 · 完整破解链
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/账号与名字/
+- [DOC] 腾讯文档《XIKM HLQA ONYIEN 解谜》
+  https://docs.qq.com/doc/DZURVVXJkS1NZWFNq
+- [VIDEO] B 站 XIKM_HLQA_ONYIEN
+  https://space.bilibili.com/3493126603803061
 
 本文为基于公开材料的档案式改写，非游戏原文。

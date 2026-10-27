@@ -1,37 +1,39 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-018 / 归档中继
-ARCHIVE_RELAY
+FILE X-018 / ROUTE ZERO
+ROUTE ZERO / ACTIVATION TRACE
 
-归属：世界观
-编目范围：归档中继
-相关人物：回返 · 缺页索引
+归属：邮路终端
+编目范围：邮件谜题
+相关人物：邮路终端 · 未寄之门
 访问范围：KEY
 
-归档系统的中继，也是「回返」的确认方；西侧残片交付后，它返回了有效登记，证明方向可以倒转。
+第三枚邮票《未寄之门》票面上的来源标记，写作 ACTIVATION TRACE / ROUTE ZERO；它不是一条能寄信的邮路，而是未激活的路留下的痕迹。
 
-推演链（推断链）
-归档中继之所以特殊，是因为它用了一个不该用在收件上的词。
+推演链（解谜链）
+这条有输入、有解码、有结果：提示语 → 点位图 → 五位数 → 主题解锁。
 
-1. 事件：west_fragment.png 交付中继
-   → 中继返回「有效登记」，回返在文件层成立
-2. 异常点：中继用「回返」而不是「收到」
-   → SILVERFISH_0 的判断——纯粹收件不必用回返这个词
-3. 结论
-   → 中继至少参与回返的确认，不只是收件口；实际管理者身份未明
-
-未闭合：中继的实际管理者是谁，是缺页索引第一条，从未公开。
+1. 入口
+   → 邮路终端第三枚邮票《未寄之门》，票面标 ACTIVATION TRACE / ROUTE ZERO
+2. 提示
+   → GitHub 侧提示「四舍五入」，指向五位数字
+3. 解码
+   → 点位图逐行数橙色点落在第几位 → 62415
+4. 输入方式
+   → 先输 6241，确认后再补 5；一次输满不被接受
+5. 结果
+   → 页面接受，解锁潮汐主题——ROUTE ZERO 就是「激活过但没走通」的那条路
 
 附注
-1. 它被 SILVERFISH_0 列为「我可以不代表」的一方。
-2. 实际管理者身份未明，这是缺页索引第一条（未公开）。
-3. 中继不可能为一个纯粹的收件动作使用「回返」这个词。
+1. 标记本身是元数据，不是内容：票面上写信件从哪里来，而不是信里写了什么。
+2. 同一枚邮票的密码 62415 由点位图逐行数橙色点得出，先给四位、再补第五位。
+3. 解锁后页面切到潮汐主题，标记从装饰变成入口。
 
 溯源
-- [WIKI] 归档中继（ARCHIVE_RELAY）
-  https://xikmwiki.rosmontis220.top/世界/归档中继/
-- [ARCHIVE] 调查维基 v2 · 缺页索引
-  https://archive.rosmontis220.top/archive/wiki/v2/
-- [DOC] 腾讯文档《XIKM HLQA ONYIEN 解谜》
-  https://docs.qq.com/doc/DZURVVXJkS1NZWFNq
+- [WIKI] 邮件谜题 · 五枚邮票全解
+  https://xikmwiki.rosmontis220.top/Silverfish_0/邮路终端/邮件谜题/
+- [DOC] 腾讯文档《邮路终端解谜》
+  https://docs.qq.com/sheet/DVWpFakpIVmFSZkV1
+- [REPO] 0-silverfish/postal-terminal
+  https://github.com/0-silverfish/postal-terminal
 
 本文为基于公开材料的档案式改写，非游戏原文。

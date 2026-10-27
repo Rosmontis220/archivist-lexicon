@@ -1,0 +1,40 @@
+﻿ARCHIVIST · LEXICON
+FILE X-049 / 哀歌
+LAMENTATIONS
+
+归属：Silverfish_0
+编目范围：GOD SAYS
+相关人物：彼者与GOD · 调查维基
+访问范围：NOTE
+
+GOD SAYS 页面里由人回话的部分，共五十二条；说话人几乎都在写被注视之后的家庭、身体与遗忘，没有一条描述神的样子。
+
+推演链（推断链）
+哀歌的结论来自分布：哪种语言有多少条、都在说什么，比逐条解读更能说明这组文本的用法。
+
+1. 数 lamentations 数组
+   → 52 条，每条只有 lang 与 text 两个字段
+2. 按语言分组
+   → zh-Hant 22 条，其余 en / ja / ko / fr / es / de / ru / it / pt / la / ar / hi / el / tr / pl 各 2 条
+3. 读内容取向
+   → 第一人称，写献孩子、刮掉族谱上的名字、怕闭眼；没有一条描写神的形貌
+4. 与启示对照
+   → 启示在十六种语言里各有一次完整宣言，哀歌只有中文成规模，其他语言各留两条作对照
+5. 判定
+   → 哀歌是「听者的语言」：汉语承重，其他语言是样本；样本证明这件事在所有语言里同时发生
+
+附注
+1. 五十二条里二十二条是繁体中文，其余十五种语言各两条。
+2. 全部第一人称，主题集中在献祭、疼痛、被记住与求遗忘。
+3. 与启示正好相反：启示是神在说，哀歌是人回话，而且没有一条被回答。
+4. 最反复的一句是「求你忘了我们」——求的不是救赎，是不被看见。
+
+溯源
+- [ARCHIVE] 调查维基 v3（GOD SAYS）
+  https://archive.rosmontis220.top/archive/wiki/v3/
+- [REPO] 线上页 · app.js
+  https://silverfish-0.github.io/silverfish-0-investigation-wiki/
+- [WIKI] 彼者与GOD
+  https://xikmwiki.rosmontis220.top/世界/彼者与GOD/
+
+本文为基于公开材料的档案式改写，非游戏原文。

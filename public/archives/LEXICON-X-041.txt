@@ -1,51 +1,39 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-041 / 档案维基
-ARCHIVIST Wiki
+FILE X-041 / ABANDON
+ABANDON
 
-归属：站点
-编目范围：ARCHIVIST-Wiki
-相关人物：Rosmontis220 · MkDocs Material
+归属：档案文明
+编目范围：ABANDON发布
+相关人物：投影 · RETAIN 与 THRESHOLD
 访问范围：CORE
 
-Rosmontis220 维护的 ARG 知识库，用 MkDocs Material 生成并发布在 xikmwiki.rosmontis220.top；它只做整理与索引，任何结论都要能回指原始材料。
+2026-08-19 发布的三端解谜游戏；FORM（macOS）、ORDER（Windows）、WITNESS（Android）各 v0.0.0。
 
-推演链（推断链）
-这条描述的是站点本身而不是游戏文本，证据分三处：构建配置、目录树、写作规范，结论按三处对齐后给出。
+推演链（解谜链）
+ABANDON 是三端联动的三层解谜，第四层至今只开了门没进去。
 
-1. 读 mkdocs.yml 头部
-   → site_name=ARCHIVIST Wiki、site_url=xikmwiki.rosmontis220.top、theme.name=material、language=zh
-2. 读 nav 段
-   → 五个一级栏目：首页 / 档案文明 / Silverfish_0 / 世界观 / 人物，全部手工登记，没有自动生成
-3. 数 docs/ 下的 .md
-   → 39 页：档案文明 19、人物 7、世界观 6、Silverfish_0 4、首页 3
-4. 读 编写规范.md
-   → H1=条目名、front matter 不放 title、页末必须有「参考来源」、引用原文逐字保留、实数以原文档统计为准
-5. 核对线上首页源码
-   → generator=mkdocs-1.6.1 / mkdocs-material-9.8.0，只引 extra.css；仓库里的 overrides/ 外壳没有出现在线上
-6. 把四处对齐
-   → 站点是指引层：它不生产新结论，只把结论指回腾讯文档、两座档案站与 GitHub
+1. 第一层：macOS 记忆排序 / Windows 比较大小 / Android 兔子洞
+   → 三端各得一个 A1 密钥
+2. 第二层：输入另外一端（任选）的 A1，并按同一顺序与四个图案交互
+   → 得三个 A2 密钥
+3. 第三层：输入另外两端的两个 A2
+   → 显示三句话，本端白、另两端灰，随后各产出一个 DAT
+4. 三句话里 FORM WAS NEVER COMPLETE 是提示
+   → 选关界面输入 4 进入隐藏第四关
 
-未闭合：线上外壳与仓库不一致：overrides/ 与 assets/rhine.css 已在仓库里，最近一次构建却没带上，仓库内没有记录原因。
+未闭合：隐藏第四关的密码至今没有解出；三端 DAT 齐备后才能把文件融合进 THRESHOLD。
 
 附注
-1. 站名 ARCHIVIST Wiki，副题是「档案文明 · Silverfish_0 —— ARG 知识库」：两套材料并列，不合成一套设定。
-2. 导航是手写的五个栏目：首页、档案文明、Silverfish_0、世界观、人物；全站 39 页，不写进 nav 的页面仍可按 URL 打开，但不进侧栏。
-3. 页面格式被规范钉死：H1 就是条目名，front matter 不写 title，每页末尾必须有「参考来源」。
-4. 引用原文（邮票文案、动态、游戏内文本）用引用块逐字保留，不改写不翻译；表格的行列与原文档一致，缺的格子如实留空。
-5. 剧透分级：世界观与人物条目基本不含答案，只有作品的「玩法与解谜」「结局」才给完整过程，并用折叠块标注。
-6. 媒体统一收在 docs/media/ 的 stamps、rooms、avatars、forum、doc1 等子目录，不随页面另建图片目录。
-7. 提交前要求 python -m mkdocs build 零 WARNING，断链与找不到的图片都会在这里暴露；合并后 Pages 自动部署。
+1. 三端是同一来源对象的三个投影，差异要保留而不是纠正。
+2. 简介标注 ANCHOR COHERENCE: DEGRADED。
+3. 彼者只造了「一条规则」，房间、钥匙与游戏之形由人的机器赋予。
 
 溯源
-- [WIKI] 首页 · 站点总览
-  https://xikmwiki.rosmontis220.top/
-- [WIKI] 编写规范 · 改动流程
-  https://xikmwiki.rosmontis220.top/编写规范/
-- [WIKI] 入门 · 阅读顺序
-  https://xikmwiki.rosmontis220.top/入门/
-- [WIKI] 世界观 · 术语表
-  https://xikmwiki.rosmontis220.top/世界/术语表/
-- [REPO] ARCHIVIST-Wiki · mkdocs.yml
-  https://github.com/Rosmontis220/ARCHIVIST-Wiki/blob/main/mkdocs.yml
+- [WIKI] ABANDON · 玩法与解谜（三层流程）
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/玩法与解谜/
+- [WIKI] 三端 DAT 文本
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/
+- [ARCHIVIST] ABANDON · ORDER 端
+  https://archivist.rosmontis220.top/archive/abandon/order/
 
 本文为基于公开材料的档案式改写，非游戏原文。

@@ -1,0 +1,39 @@
+﻿ARCHIVIST · LEXICON
+FILE X-048 / 启示
+REVELATIONS
+
+归属：Silverfish_0
+编目范围：GOD SAYS
+相关人物：彼者与GOD · 调查维基
+访问范围：KEY
+
+GOD SAYS 页面的主文本：同一段宣言被译成十六种语言，每种语言给出本地化的称谓——GOD SAYS / 神曰 / 神は言う / يقول الإله。
+
+推演链（推断链）
+启示是唯一一处可以直接对数的地方：数语言、数行、比顺序，结论全部来自比对，不来自解读。
+
+1. 数 revelations 数组
+   → 16 项，slug 从 english 到 polish，含拉丁语、阿拉伯语、印地语、希腊语
+2. 比对称谓
+   → 每项 declaration 用本语言写：GOD SAYS / 神曰 / 神は言う / 신이 말한다 / DIEU DIT / БОГ ГОВОРИТ …
+3. 数每项行数
+   → 英文 8 行，其余 15 种各 9 行；差异只在「读我的话 / 听见形式」这两句是否分行
+4. 抽第一句与末两句
+   → 首句统一否定「这是记录」，末两句固定为「我未曾到来／也未曾离开」
+5. 判定
+   → 它不是十六个版本，是一次宣言的十六次本地化；称谓被翻，禁令不翻
+
+附注
+1. 十六种语言共用一套段落顺序，第一句都是「你把这一页叫作记录，它不是」。
+2. 英文版八行，其余十五种各九行——英文把「你没有在读我的话／你听见的是你的心智承受得住的形式」并成了一行。
+3. 宣言里两次拒绝名字（「不要寻找我的名」），却要求读者别回应天空；名字与应答是全文的两个禁令。
+
+溯源
+- [ARCHIVE] 调查维基 v3（GOD SAYS）
+  https://archive.rosmontis220.top/archive/wiki/v3/
+- [REPO] 线上页 · app.js
+  https://silverfish-0.github.io/silverfish-0-investigation-wiki/
+- [WIKI] 彼者与GOD
+  https://xikmwiki.rosmontis220.top/世界/彼者与GOD/
+
+本文为基于公开材料的档案式改写，非游戏原文。

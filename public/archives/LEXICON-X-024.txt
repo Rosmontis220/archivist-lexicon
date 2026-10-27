@@ -1,37 +1,33 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-024 / GitHub 据点
-GitHub Stronghold
+FILE X-024 / 载体
+Carrier
 
-归属：Silverfish_0
-编目范围：GitHub据点
-相关人物：邮路终端 · 调查维基
-访问范围：NOTE
+归属：术语表
+编目范围：术语表
+相关人物：渡越 · 回返
+访问范围：KEY
 
-Silverfish_0 以 GitHub 账号与仓库构成的发布据点；调查维基、预言与邮路终端都存放在此。
+能跨越锚点的介质，例如图片、书页、存档片段，或一个人反复使用的一句话；它不限于实物。
 
-推演链（推断链）
-GitHub 据点的时间线可以完全靠提交历史复原，这是全项目最像「取证」的一段。
+推演链（定义出处）
+载体的定义里有一个人格化的尾项——「一个人反复使用的句子」，这是把它和其他系统术语区分开的地方。
 
-1. 账号分界：Silverfish-0 → 0-silverfish
-   → 原账号称遭攻击，2026-09-20 换号
-2. 强制重写：旧提交 6b1ea71 / b65f684
-   → 被 710fb72 / bad843c / 0df8c37 取代，邮路终端上游历史被改写
-3. 内容分界
-   → 换号前是调查维基草稿、forecast、number-of-motion；换号后是 postal-terminal
-4. 结论
-   → 两个账号不是同一时期的两个马甲，而是被迫迁移的两段；调查维基 v3 被覆写成 GOD SAYS 就发生在断档期
+1. 工具：v2 术语表
+   → 「能跨越锚点的介质：图片、书页、存档片段、一个人反复使用的句子」
+2. 落点：west_edge_backup.zip
+   → 压缩包本身就是载体：跨过锚点后被现实侧的参与者打开
+3. 推论
+   → 载体不要求是物体，只说「能带过去」；口头重复的句子与文件在同一层级
 
 附注
-1. 原账号 Silverfish-0 遭攻击，9 月 20 日改号 0-silverfish。
-2. number-of-motion 仓库含《运动之数／本地连续性探针》与两份加密记录。
-3. 换号后邮路终端上游历史被强制重写。
+1. 载体的范围包括语言：一个人反复使用的句子也能成为载体。
+2. REVIEW 复核台要求判断「载体 × 路线 × 接收位置」三要素。
+3. 它是回返与渡越实际附着的东西。
 
 溯源
-- [WIKI] GitHub 据点 · 账号与仓库表
-  https://xikmwiki.rosmontis220.top/Silverfish_0/GitHub据点/
-- [REPO] Silverfish-0/silverfish-0-investigation-wiki
-  https://github.com/Silverfish-0/silverfish-0-investigation-wiki
-- [REPO] 0-silverfish/postal-terminal
-  https://github.com/0-silverfish/postal-terminal
+- [ARCHIVE] 调查维基 v2 · 术语表
+  https://archive.rosmontis220.top/archive/wiki/v2/
+- [ARCHIVIST] west_edge_backup.zip
+  https://archivist.rosmontis220.top/archive/download/west_edge_backup.zip
 
 本文为基于公开材料的档案式改写，非游戏原文。

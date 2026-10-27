@@ -1,35 +1,36 @@
 ﻿ARCHIVIST · LEXICON
-FILE X-036 / SILVERFISH_0
-Silverfish_0
+FILE X-036 / Mac Trang Phat
+Mac Trang Phat
 
 归属：人物
-编目范围：Silverfish_0
-相关人物：调查维基 · 断联协议
-访问范围：CORE
+编目范围：Mac Trang Phat
+相关人物：回返 · ABANDON
+访问范围：NOTE
 
-公开材料里的调查者、整理者、发布者与引导者；自称跨锚时姓名、具体年龄与连续经历被剥掉。
+ABANDON WITNESS 端 DAT 记录《EXTERNAL RETURN RECORD 0001》中的留名者，完成过一次状态 ACCEPTED 的 WEST RETURN。
 
 推演链（推断链）
-这个名字有两个来源，两条都不是官方解释，而是材料里留下的用法。
+这个人的全部资料就是一份五行记录，没有第二处出处。
 
-1. 来源一：十只蠹虫
-   → 蠹虫是「在纸张和档案缝隙里存活的东西」
-2. 来源二：断联语境
-   → SILVERFISH_0 是断联期间仍在写记录的一方，档案站因此叫「断联前后的完整记录」
-3. 行为判定：面对 GOD 的解释
-   → 「那不是神。神不需要借权限，也不需要删除数据库」——按工程与取证口径看事件，不按神启口径
+1. 唯一来源：ABANDON WITNESS 端 DAT
+   → EXTERNAL RETURN RECORD 0001 / NAME RETAINED: Mac Trang Phat / IDENTIFIER RETAINED: 1809982305
+2. 记录字段读法
+   → EVENT: WEST RETURN、STATUS: ACCEPTED——他完成过一次被接受的返航
+3. IDENTIFIER 格式比对
+   → 1809982305 形似即时通讯账号，但未确认指向
+
+未闭合：除这份 DAT 外，全材料再没出现过这个名字，也没有他的任何行为记录。
 
 附注
-1. SILVERFISH_0 是索引名而非出生名，后缀 0 意为「尚未确定原点」。
-2. 名字有两个来源：Minecraft 的蠹虫，与纸张档案缝隙里存活的东西。
-3. 断联后无法自证仍能回应；本地记录明言「看到它不代表作者现在仍能回应」。
+1. IDENTIFIER 1809982305 格式像即时通讯账号，指向未确认。
+2. WITNESS 端 DAT 全文仅五行，此外没有他的行为记录。
 
 溯源
-- [WIKI] 十只蠹虫 · 名字来源
-  https://xikmwiki.rosmontis220.top/世界/十只蠹虫/
-- [WIKI] GitHub 据点 · 账号迁移
-  https://xikmwiki.rosmontis220.top/Silverfish_0/GitHub据点/
-- [ARCHIVE] SILVERFISH_0 档案站首页
-  https://archive.rosmontis220.top/
+- [WIKI] Mac Trang Phat · 人物页
+  https://xikmwiki.rosmontis220.top/人物/Mac Trang Phat/
+- [WIKI] 三端 DAT 文本 · WITNESS
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/
+- [ARCHIVIST] ABANDON · WITNESS 端
+  https://archivist.rosmontis220.top/archive/abandon/witness/
 
 本文为基于公开材料的档案式改写，非游戏原文。

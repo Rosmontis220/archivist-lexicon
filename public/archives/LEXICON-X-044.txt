@@ -1,0 +1,42 @@
+﻿ARCHIVIST · LEXICON
+FILE X-044 / 调查维基
+Investigation Wiki
+
+归属：Silverfish_0
+编目范围：Silverfish_0
+相关人物：SILVERFISH_0 · 彼者与GOD
+访问范围：KEY
+
+SILVERFISH_0 建立的档案调查维基，v1 二十篇、v2 二十一篇；v3 被覆写为 GOD SAYS。
+
+推演链（推断链）
+三个版本的差别本身就是证据：v3 不是续写，是被覆盖。
+
+1. v1：content.js 42KB
+   → 术语表原始版，条目较少
+2. v2：content.js 47KB
+   → 补入十六案卷、缺页索引、十只蠹虫等条目
+3. v3：只剩 app.js，标题改为 GOD SAYS
+   → 展开为 16 种语言启示 + 50 哀歌 + 20 系统错误 + 16 狂热宣言，作者署名被覆盖
+4. 比对文件清单
+   → v1 / v2 结构与体积接近，v3 是另一套程序，说明不是同一次编辑
+5. 线上仓库 tree：5 个文件
+   → 启示、哀歌、错误与宣言全部写在 app.js 里，语言靠 revelations 数组切换；这不是 wiki 程序，是一页装置
+
+附注
+1. v2 新增《断联协议》，并把《大黄昏预言》重构为《巨爆大黄昏》。
+2. v3 的作者署名被覆盖，标题改为 GOD SAYS。
+3. GOD SAYS 展开为 16 种语言启示、52 哀歌、20 系统错误与 16 狂热宣言。
+4. 线上那份只有五个文件：index.html、app.js、style.css、background.png、god.m4a；没有 md，也没有导航结构。
+
+溯源
+- [ARCHIVE] 调查维基 v1
+  https://archive.rosmontis220.top/archive/wiki/v1/
+- [ARCHIVE] 调查维基 v2
+  https://archive.rosmontis220.top/archive/wiki/v2/
+- [ARCHIVE] 调查维基 v3（GOD SAYS）
+  https://archive.rosmontis220.top/archive/wiki/v3/
+- [REPO] 线上页 · GitHub Pages
+  https://silverfish-0.github.io/silverfish-0-investigation-wiki/
+
+本文为基于公开材料的档案式改写，非游戏原文。
