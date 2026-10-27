@@ -578,21 +578,21 @@ button {
 .file-ticks {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: var(--tick-gap, 12px);
 }
 .file-ticks button {
-  width: 14px;
+  width: var(--tick-w, 14px);
   height: 40px;
   position: relative;
 }
 .file-ticks button:before {
   content: "";
   position: absolute;
-  left: 6px;
+  left: calc(50% - 1px);
   top: 14px;
   width: 2px;
   height: 12px;
-  background: #aaa59a;
+  background: var(--theme-line, #aaa59a);
   transition:
     height 0.4s,
     background 0.4s,
@@ -601,12 +601,12 @@ button {
 .file-ticks button.selected:before {
   height: 33px;
   top: 3px;
-  background: #24261f;
+  background: var(--theme-ink, #24261f);
 }
 .file-ticks button:hover:before {
   height: 24px;
   top: 8px;
-  background: #a27849;
+  background: var(--theme-accent, #a27849);
 }
 .archive-hint {
   position: absolute;

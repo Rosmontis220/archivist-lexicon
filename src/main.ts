@@ -409,6 +409,8 @@ function savePrefs() {
   syncWallpaperBackground();
 }
 let previousLayout = "";
+/** 刻度带首帧渲染完成前，fit() 不能去动它。 */
+let ticksReady = false;
 function fit() {
   const stage = $("#stage");
   const viewport = $("#viewport");
@@ -427,7 +429,11 @@ function fit() {
   stage.style.width = `${width}px`;
   stage.style.height = `${height}px`;
   stage.style.transform = `translate(-50%, -50%) scale(${scale})`;
+  const kindChanged = stage.dataset.layout !== kind;
   stage.dataset.layout = kind;
+  // 断点一变，刻度带的格宽上限也跟着变，需要按新舞台重算一次。
+  if (kindChanged && ticksReady)
+    renderFileTicks(columnFiles(fileLocation(selected).lane), selected);
   stage.dataset.touch = String(coarse);
   viewport.dataset.mobileBoot = String(
     mode === "boot" && (coarse || viewport.clientWidth < 1100),
@@ -483,12 +489,51 @@ window.visualViewport?.addEventListener("resize", fit);
 window.visualViewport?.addEventListener("scroll", fit);
 matchMedia("(pointer: coarse)").addEventListener("change", fit);
 fit();
-$("#file-ticks").innerHTML = columnFiles(fileLocation(selected).lane)
-  .map((index) => `<button data-select="${index}"></button>`)
-  .join("");
-const fileTicks = [
-  ...$("#file-ticks").querySelectorAll<HTMLButtonElement>("button"),
-];
+let fileTicks: HTMLButtonElement[] = [];
+/** 刻度带允许占用的最大宽度（舞台像素）。再宽就会顶到右侧的列导航上。 */
+const TICK_TRACK = 320;
+
+/** 刻度格数跟着当前栏目的档案数走，条数变化时重建，间距与格宽随条数压缩。 */
+function renderFileTicks(files: number[], current: number) {
+  const holder = $("#file-ticks");
+  if (fileTicks.length !== files.length) {
+    holder.innerHTML = files
+      .map((index) => `<button data-select="${index}"></button>`)
+      .join("");
+    fileTicks = [...holder.querySelectorAll<HTMLButtonElement>("button")];
+  }
+  holder.style.removeProperty("--tick-w");
+  const width = fileTicks[0]?.offsetWidth || 14;
+  // 窄屏的刻度带按舞台宽度均分，条数一多就压格宽，免得两侧箭头被挤出画外。
+  if ($("#stage").dataset.layout !== "desktop") {
+    const usable = $("#stage").clientWidth - 24 - (2 * 46 + 16);
+    const fit = Math.floor(usable / Math.max(1, files.length));
+    if (fit < width) holder.style.setProperty("--tick-w", `${Math.max(8, fit)}px`);
+  }
+  // 桌面端刻度带最宽占 TICK_TRACK，超出部分靠收窄间距吃下来，不会顶到列导航。
+  const gap =
+    files.length < 2
+      ? 12
+      : Math.max(
+          3,
+          Math.min(
+            12,
+            Math.floor((TICK_TRACK - width * files.length) / (files.length - 1)),
+          ),
+        );
+  holder.style.setProperty("--tick-gap", `${gap}px`);
+  ticksReady = true;
+  fileTicks.forEach((button, slot) => {
+    const index = files[slot],
+      record = records[index];
+    if (!record) return;
+    button.dataset.select = String(index);
+    button.setAttribute("aria-label", `选择档案 ${record.id} ${record.title}`);
+    button.title = `${record.id} · ${record.title}`;
+    button.classList.toggle("selected", index === current);
+    button.setAttribute("aria-pressed", String(index === current));
+  });
+}
 
 function setMode(next: Mode) {
   if (workbench?.enabled && next === "detail") next = "archive";
@@ -634,15 +679,7 @@ function updateSelection(navigation?: ArchiveNavigation) {
   });
   $<HTMLButtonElement>('[data-action="column-prev"]').disabled = false;
   $<HTMLButtonElement>('[data-action="column-next"]').disabled = false;
-  fileTicks.forEach((button, slot) => {
-    const index = files[slot],
-      record = records[index];
-    button.dataset.select = String(index);
-    button.setAttribute("aria-label", `选择档案 ${record.id} ${record.title}`);
-    button.title = `${record.id} · ${record.title}`;
-    button.classList.toggle("selected", index === selected);
-    button.setAttribute("aria-pressed", String(index === selected));
-  });
+  renderFileTicks(files, selected);
   $("#saved-count").textContent = String(saved.size).padStart(2, "0");
 }
 function replayBoot(forcePreview = false) {

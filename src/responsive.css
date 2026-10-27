@@ -71,8 +71,8 @@
 :is([data-layout="compact"], [data-layout="portrait"]) .count-total { font-size: 15px; }
 :is([data-layout="compact"], [data-layout="portrait"]) .archive-navigation { left: 20%; bottom: 62px; gap: 4px; }
 :is([data-layout="compact"], [data-layout="portrait"]) .file-ticks { gap: 0; }
-:is([data-layout="compact"], [data-layout="portrait"]) .file-ticks button { width: 22px; height: 44px; }
-:is([data-layout="compact"], [data-layout="portrait"]) .file-ticks button:before { left: 10px; }
+:is([data-layout="compact"], [data-layout="portrait"]) .file-ticks button { width: var(--tick-w, 22px); height: 44px; }
+:is([data-layout="compact"], [data-layout="portrait"]) .file-ticks button:before { left: calc(50% - 1px); }
 :is([data-layout="compact"], [data-layout="portrait"]) .column-navigation { left: auto; right: var(--edge); bottom: 62px; gap: 8px; }
 :is([data-layout="compact"], [data-layout="portrait"]) .column-navigation > div { min-width: 100px; gap: 4px; }
 :is([data-layout="compact"], [data-layout="portrait"]) .column-navigation strong { font-size: 13px; }
@@ -111,8 +111,8 @@
 [data-layout="portrait"] .archive-counter { bottom: 58px; }
 [data-layout="portrait"] .column-navigation { bottom: 58px; }
 [data-layout="portrait"] .archive-navigation { bottom: 124px; left: 50%; transform: translateX(-50%); gap: 6px; }
-[data-layout="portrait"] .file-ticks button { width: 27px; }
-[data-layout="portrait"] .file-ticks button:before { left: 12px; }
+[data-layout="portrait"] .file-ticks button { width: var(--tick-w, 27px); }
+[data-layout="portrait"] .file-ticks button:before { left: calc(50% - 1px); }
 [data-layout="portrait"] .back-button { top: 77px; }
 [data-layout="portrait"] .detail-content { left: var(--edge); right: var(--edge); width: auto; top: 54%; bottom: 40px; padding-top: 12px; border-top: 1px solid #aaa496; }
 [data-layout="portrait"] .object-caption { left: var(--edge); right: var(--edge); bottom: 46%; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
@@ -198,7 +198,7 @@
   #stage[data-layout="portrait"] { --edge: max(14px, env(safe-area-inset-left), env(safe-area-inset-right)); }
   [data-layout="portrait"] .system-nav { gap: 0; }
   [data-layout="portrait"] .column-navigation { gap: 2px; }
-  [data-layout="portrait"] .file-ticks button { width: 24px; }
+  [data-layout="portrait"] .file-ticks button { width: var(--tick-w, 24px); }
   /* Narrow screens keep their 12px side insets, minus the top one now owned
      by the sticky bar. */
   [data-layout="portrait"] .terminal-modal { padding: 0 12px 12px; }
