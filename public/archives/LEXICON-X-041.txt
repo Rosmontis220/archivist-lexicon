@@ -1,0 +1,51 @@
+﻿ARCHIVIST · LEXICON
+FILE X-041 / 档案维基
+ARCHIVIST Wiki
+
+归属：站点
+编目范围：ARCHIVIST-Wiki
+相关人物：Rosmontis220 · MkDocs Material
+访问范围：CORE
+
+Rosmontis220 维护的 ARG 知识库，用 MkDocs Material 生成并发布在 xikmwiki.rosmontis220.top；它只做整理与索引，任何结论都要能回指原始材料。
+
+推演链（推断链）
+这条描述的是站点本身而不是游戏文本，证据分三处：构建配置、目录树、写作规范，结论按三处对齐后给出。
+
+1. 读 mkdocs.yml 头部
+   → site_name=ARCHIVIST Wiki、site_url=xikmwiki.rosmontis220.top、theme.name=material、language=zh
+2. 读 nav 段
+   → 五个一级栏目：首页 / 档案文明 / Silverfish_0 / 世界观 / 人物，全部手工登记，没有自动生成
+3. 数 docs/ 下的 .md
+   → 39 页：档案文明 19、人物 7、世界观 6、Silverfish_0 4、首页 3
+4. 读 编写规范.md
+   → H1=条目名、front matter 不放 title、页末必须有「参考来源」、引用原文逐字保留、实数以原文档统计为准
+5. 核对线上首页源码
+   → generator=mkdocs-1.6.1 / mkdocs-material-9.8.0，只引 extra.css；仓库里的 overrides/ 外壳没有出现在线上
+6. 把四处对齐
+   → 站点是指引层：它不生产新结论，只把结论指回腾讯文档、两座档案站与 GitHub
+
+未闭合：线上外壳与仓库不一致：overrides/ 与 assets/rhine.css 已在仓库里，最近一次构建却没带上，仓库内没有记录原因。
+
+附注
+1. 站名 ARCHIVIST Wiki，副题是「档案文明 · Silverfish_0 —— ARG 知识库」：两套材料并列，不合成一套设定。
+2. 导航是手写的五个栏目：首页、档案文明、Silverfish_0、世界观、人物；全站 39 页，不写进 nav 的页面仍可按 URL 打开，但不进侧栏。
+3. 页面格式被规范钉死：H1 就是条目名，front matter 不写 title，每页末尾必须有「参考来源」。
+4. 引用原文（邮票文案、动态、游戏内文本）用引用块逐字保留，不改写不翻译；表格的行列与原文档一致，缺的格子如实留空。
+5. 剧透分级：世界观与人物条目基本不含答案，只有作品的「玩法与解谜」「结局」才给完整过程，并用折叠块标注。
+6. 媒体统一收在 docs/media/ 的 stamps、rooms、avatars、forum、doc1 等子目录，不随页面另建图片目录。
+7. 提交前要求 python -m mkdocs build 零 WARNING，断链与找不到的图片都会在这里暴露；合并后 Pages 自动部署。
+
+溯源
+- [WIKI] 首页 · 站点总览
+  https://xikmwiki.rosmontis220.top/
+- [WIKI] 编写规范 · 改动流程
+  https://xikmwiki.rosmontis220.top/编写规范/
+- [WIKI] 入门 · 阅读顺序
+  https://xikmwiki.rosmontis220.top/入门/
+- [WIKI] 世界观 · 术语表
+  https://xikmwiki.rosmontis220.top/世界/术语表/
+- [REPO] ARCHIVIST-Wiki · mkdocs.yml
+  https://github.com/Rosmontis220/ARCHIVIST-Wiki/blob/main/mkdocs.yml
+
+本文为基于公开材料的档案式改写，非游戏原文。

@@ -1,0 +1,35 @@
+﻿ARCHIVIST · LEXICON
+FILE X-015 / 巨爆大黄昏
+Massive-Effect Great Dusk
+
+归属：术语表
+编目范围：术语表
+相关人物：通讯断联 · 锚域
+访问范围：CORE
+
+覆盖多个锚域并令跨维通讯完全断联的大规模效应；「巨爆」指影响范围，而非物理爆炸。
+
+推演链（定义出处）
+巨爆大黄昏最容易被误读成爆炸，术语表专门为此写了否定说明。
+
+1. 工具：v2 术语表
+   → 「覆盖多个锚域并令跨维通讯完全断联的大规模效应」
+2. 关键限定
+   → 「巨爆」指影响范围而非物理爆炸——名字本身是误导读者的地方
+3. 结论
+   → 它是通讯事件，不是物理事件；与通讯断联是规模关系，断联是它在单锚域内的表现
+
+附注
+1. 术语表明确辨析：「巨爆」不是爆炸，而是影响范围的量级。
+2. 调查维基 v2 把《大黄昏预言》重构为《巨爆大黄昏》。
+3. 协助者约定「等下一次的巨爆大黄昏结束，我们将正式碰面」。
+
+溯源
+- [ARCHIVE] 调查维基 v2 · 术语表
+  https://archive.rosmontis220.top/archive/wiki/v2/
+- [REPO] Silverfish-0/great-dusk-forecast
+  https://github.com/Silverfish-0/great-dusk-forecast
+- [ARCHIVE] 大黄昏预测 forecast v2
+  https://archive.rosmontis220.top/archive/forecast/v2/
+
+本文为基于公开材料的档案式改写，非游戏原文。

@@ -1,0 +1,2219 @@
+{
+  "categories": [
+    "核心概念",
+    "世界结构",
+    "组织与场所",
+    "作品与代号",
+    "人物"
+  ],
+  "columns": [
+    "核心概念",
+    "组织与场所",
+    "世界结构",
+    "人物",
+    "作品与代号"
+  ],
+  "records": [
+    {
+      "id": "X-001",
+      "title": "锚域",
+      "en": "Anchor Domain",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "锚点 · 巨爆大黄昏",
+      "clearance": "CORE",
+      "abstract": "一套能够自洽延续的平行因果容器；原文强调每个锚域都有自己独立的事件顺序、人物和结果。",
+      "findings": [
+        "「自洽」与「可延续」是定义的重点，不是单纯的空间范围。",
+        "跨锚点并非完全隔绝，文字、记录、程序甚至人的痕迹都有机会跨越。",
+        "巨爆大黄昏可以覆盖多个锚域，是跨锚域规模的效应。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "这条不是密码，定义只在调查维基 v2 术语表出现一次，之后的材料只是不断给出例子。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表原表",
+            "result": "「锚域」被写成「一套能够自洽延续的平行因果容器」，英文 Anchor Domain"
+          },
+          {
+            "method": "交叉：线索梳理·锚点与投影段",
+            "result": "同一段把锚点说成「相对独立的世界范围」，并补上「跨锚点并非完全隔绝」"
+          },
+          {
+            "method": "合并两处措辞",
+            "result": "锚域是容器，锚点是容器里的可寻址位置；两者是整体与坐标的关系，不是同义词"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "调查维基 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        },
+        {
+          "site": "wiki",
+          "label": "线索梳理 · 锚点与投影",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/线索梳理/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-002",
+      "title": "锚点",
+      "en": "Anchor",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "锚域 · 锚差",
+      "clearance": "CORE",
+      "abstract": "锚域内可被重复定位和外部寻址的固定点；每个锚点有自己独立的事件顺序、人物和结果。",
+      "findings": [
+        "K317 是当前唯一稳定锚，XIKM 的名字藏在它的简介里。",
+        "锚点可以被破坏；西侧稳定锚曾第一次失效。",
+        "VHQ-4K/19 是系统分配的代号，直接当成人名会解释不通。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "定义只有一句，真正把「锚点」撑起来的是 K317 与 VHQ-4K/19 这两个反向例子。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表 + 锚点与投影表",
+            "result": "锚点＝可被重复定位和外部寻址的固定点；K317 被标为当前唯一稳定锚"
+          },
+          {
+            "method": "反证：XIKM 简介「我的名字隐藏在 K317 的描述里」",
+            "result": "锚点描述可以承载可执行线索，说明它是被人为写入的地址，不只是地理坐标"
+          },
+          {
+            "method": "反证：WEST 简介末尾 VHQ-4K/19 has not registered",
+            "result": "系统代号的「未注册」状态说明锚点需要登记才对系统可见，未登记的只能算残片"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "锚点与投影 · 已知锚点表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/锚点与投影/"
+        },
+        {
+          "site": "wiki",
+          "label": "XIKM · 账号简介",
+          "url": "https://xikmwiki.rosmontis220.top/人物/XIKM/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-003",
+      "title": "锚差",
+      "en": "Anchor Offset",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "锚点 · 锚域",
+      "clearance": "KEY",
+      "abstract": "两个锚点对同一事件完成状态的差值；原文特别说明它不是延迟，而会改变什么算已经发生。",
+      "findings": [
+        "原文明确提醒：锚差不是延迟，不能按先后顺序理解。",
+        "它改变的是「什么被认为已经发生」，即事件的完成状态。",
+        "同一事件可能留下多个版本，在人物、地点和时间上对不上。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "术语表对锚差的唯一强调是一句否定句，全材料没有出现可直接验算的锚差数值。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「两个锚点对同一事件完成状态的差值；不是延迟，会改变什么被认为已经发生」"
+          },
+          {
+            "method": "对照：线索梳理「同一件事可能留下多个版本」",
+            "result": "差值体现为版本冲突——同一事件在人物、地点、时间上对不上"
+          },
+          {
+            "method": "结论",
+            "result": "锚差是状态差不是时间差；判断依据是「完成状态是否一致」，不是「谁先谁后」"
+          }
+        ],
+        "open": "没有任何一份材料给出两个锚点的具体锚差，这条目前只有定义，没有实例。"
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "调查维基 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-004",
+      "title": "回返",
+      "en": "Return",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "归档中继 · 载体",
+      "clearance": "CORE",
+      "abstract": "现实侧材料进入人物侧因果链；西侧残片经归档中继登记，是这一方向首次在文件层成立。",
+      "findings": [
+        "多数异常只把信息从人物世界送到现实侧，回返让方向反过来。",
+        "归档中继对西侧残片返回「有效登记」，至少在文件层已经成立。",
+        "中继不可能为一个纯粹的收件动作使用「回返」这个词。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "回返的定义很抽象，但它有一条被官方「登记」过的实物证据，这是全站最硬的一处。",
+        "steps": [
+          {
+            "method": "工具：归档中继页",
+            "result": "现实参与者交出 west_fragment.png（西侧残片）后，中继返回了有效登记"
+          },
+          {
+            "method": "比对方向：多数异常是人物侧→现实侧",
+            "result": "西侧残片是反过来的：现实侧的选择给人物侧增加了一个此前不存在的原因"
+          },
+          {
+            "method": "旁证：ABANDON 简介 RETURN DESTINATION: ARCHIVE",
+            "result": "回返有明确目的地，说明它是被归档系统接管的流程，不是自发穿越"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "归档中继（ARCHIVE_RELAY）",
+          "url": "https://xikmwiki.rosmontis220.top/世界/归档中继/"
+        },
+        {
+          "site": "wiki",
+          "label": "锚点与投影 · 西侧残片",
+          "url": "https://xikmwiki.rosmontis220.top/世界/锚点与投影/"
+        },
+        {
+          "site": "video",
+          "label": "【WEST】BV15Vub68EGm",
+          "url": "https://www.bilibili.com/video/BV15Vub68EGm/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-005",
+      "title": "渡越",
+      "en": "Crossing",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "回声税 · 锚点",
+      "clearance": "KEY",
+      "abstract": "信息经过不可共同观察区域的过程；跨锚点信息因此会被限制、筛选或重新翻译，看起来像「穿越」。",
+      "findings": [
+        "关键在「不可共同观察」，而不在距离远近。",
+        "跨锚点信息会破坏锚点内部的因果稳定，系统必须处理它。",
+        "渡越与回声税成对：丢失的上下文即回声税。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "渡越属于「系统行为」类术语，全部描述来自术语表与锚点页，没有独立事件可验算。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「信息经过不可共同观察区域」"
+          },
+          {
+            "method": "工具：锚点与投影页",
+            "result": "跨锚点信息会破坏因果稳定，系统因此限制、筛选或重新翻译它"
+          },
+          {
+            "method": "结论",
+            "result": "渡越不是通道，是被拦截与改写的过程；这解释了为什么跨锚点看起来像穿越"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "锚点与投影",
+          "url": "https://xikmwiki.rosmontis220.top/世界/锚点与投影/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-006",
+      "title": "回声税",
+      "en": "Echo Tax",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "渡越 · 载体",
+      "clearance": "NOTE",
+      "abstract": "渡越时丢失的上下文；它是渡越的伴生结果，原文只给出这一句定义，没有说明如何计量。",
+      "findings": [
+        "原文定义只有「渡越时丢失的上下文」一句，未给出计量方式。",
+        "它与渡越互为表里：有渡越就有上下文损失。",
+        "名称含「税」，但原文没有把它写成可支付的费用。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "回声税只有定义，没有任何一份材料记录过「被扣掉的那部分上下文」。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「渡越时丢失的上下文」——与渡越成对出现，是它的代价项"
+          },
+          {
+            "method": "推一步",
+            "result": "既然是渡越的损耗，就不能指望跨锚点材料完整；残缺应被当作常态而不是破译失败"
+          },
+          {
+            "method": "落到材料上",
+            "result": "GOD 的语言段落说「进入汝的是意义，而心智会为它披上言语」，与回声税是同一种损耗的两种表述"
+          }
+        ],
+        "open": "材料从未给出一次可量化的回声税，这条定义目前靠上下文推。"
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "彼者 · GOD · 语言不是它的声音",
+          "url": "https://xikmwiki.rosmontis220.top/世界/彼者与GOD/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-007",
+      "title": "见证者坍缩",
+      "en": "Witness Collapse",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "静默互证 · 投影",
+      "clearance": "KEY",
+      "abstract": "公开解释压掉其他可发现版本的现象；一旦某种解释被公开，其他版本就再难被读者找到了。",
+      "findings": [
+        "触发条件是「公开解释」，不是材料被销毁。",
+        "它与静默互证相反：一个收束版本，一个增加独立来源。",
+        "投影强调差异要保留，可视为与坍缩相反的取向。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "见证者坍缩是「为什么真相只能拼着看」的方法论条目，例证来自论坛被清除这件事。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「公开解释压掉其他可发现版本」"
+          },
+          {
+            "method": "实例：THE EMPTY SEAT 被清除索引",
+            "result": "被删的不是全部帖子，而是「连接帖子的方法」——叙述顺序先于内容被摧毁"
+          },
+          {
+            "method": "推论",
+            "result": "一旦某个版本被公开发布并被接受，其余可发现版本就失去被发现的路径，这正是坍缩"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "彼者与 GOD · 论坛破坏事件",
+          "url": "https://xikmwiki.rosmontis220.top/世界/彼者与GOD/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · THE EMPTY SEAT",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v3（GOD SAYS）",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v3/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-008",
+      "title": "静默互证",
+      "en": "Silent Corroboration",
+      "department": "术语表",
+      "category": "核心概念",
+      "date": "术语表",
+      "lead": "见证者坍缩 · 载体",
+      "clearance": "KEY",
+      "abstract": "互不接触的来源留下同一异常细节；来源之间没有沟通，却指向同一处异常，这就是互证。",
+      "findings": [
+        "关键词是「互不接触」：来源之间没有沟通，才构成互证。",
+        "这种印证不依赖任何一方知道另一方存在。",
+        "它与见证者坍缩相反：增加可发现的版本而非压掉它们。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "静默互证是本站判定「哪些结论能留」的唯一标准，十只蠹虫就是按它立的。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「互不接触的来源留下同一异常细节」"
+          },
+          {
+            "method": "实例：十只蠹虫",
+            "result": "位置与十次外部访问记录接近，且在不同录像里保持不合理的个体差异——三处来源互不接触"
+          },
+          {
+            "method": "反用：可推翻条件",
+            "result": "若杀死一只后外部访问记录无对应变化，或个体差异能由普通机制解释，模型即废弃"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "十只蠹虫 · 可推翻条件",
+          "url": "https://xikmwiki.rosmontis220.top/世界/十只蠹虫/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 十只蠹虫",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-009",
+      "title": "选择噪声",
+      "en": "Choice Noise",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "预测盲点 · 锚域",
+      "clearance": "NOTE",
+      "abstract": "尚未被稳定记录的人的决定；在记录固定之前，它无法被当作既定事实读取，也无法被预测。",
+      "findings": [
+        "关键词是「尚未被稳定记录」：一旦记录固定，它就不再是噪声。",
+        "它描述的是记录状态，不是决定本身的随机程度。",
+        "与预测盲点相邻：后者强调高层观察读不到的未定选择。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "选择噪声与预测盲点是一对，必须连着读才能立住。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "选择噪声＝尚未被稳定记录的人的决定"
+          },
+          {
+            "method": "配对：预测盲点",
+            "result": "预测盲点＝高层观察无法读取的未定选择——两者描述同一件事的两侧"
+          },
+          {
+            "method": "结论",
+            "result": "只要记录没落定，选择就仍在噪声里；这解释了为什么玩家操作能改写材料"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "调查维基 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-010",
+      "title": "预测盲点",
+      "en": "Prediction Blind Spot",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "选择噪声 · 锚点",
+      "clearance": "NOTE",
+      "abstract": "高层观察无法读取的未定选择；盲点来自选择「未定」本身，而不是遮挡、加密或权限限制。",
+      "findings": [
+        "盲点来自选择尚未确定，不是来自权限或遮蔽。",
+        "选择噪声侧重记录状态，预测盲点侧重观察层级的读取失败。",
+        "它与见证者坍缩不同：一个读不到，一个被压掉。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "与选择噪声成对；材料里唯一能对上的是 ABANDON「记录玩家选择」的那层设计。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「高层观察无法读取的未定选择」"
+          },
+          {
+            "method": "实例：线索梳理对 ABANDON 的判断",
+            "result": "ABANDON 可能只记录玩家选择，也可能把选择写回某个锚点——正落在盲点里"
+          },
+          {
+            "method": "结论",
+            "result": "正因为读不到，记录才需要人来补；玩家的操作成了系统中唯一不可预测的输入"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "线索梳理 · ABANDON 的作用",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/线索梳理/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-011",
+      "title": "通讯断联",
+      "en": "Communication Blackout",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "盲续态 · 断联协议",
+      "clearance": "KEY",
+      "abstract": "锚域内部继续运转，但所有跨维信号停止；它描述的是信号层的中断，而非整个锚域停摆。",
+      "findings": [
+        "断联期间锚域仍在运转，停止的只是跨维信号。",
+        "巨爆大黄昏会令跨维通讯完全断联。",
+        "断联协议规定不把沉默解释成死亡、背叛、拒绝或任务完成。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "通讯断联的判据不是「有没有消息」，而是「锚域内部还在不在转」。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「锚域内部继续运转，但所有跨维信号停止」"
+          },
+          {
+            "method": "实例：SILVERFISH_0 断联前档案站命名",
+            "result": "档案站自称「断联前后的完整记录」，说明断联是一次可被归档的时间界，不是世界终结"
+          },
+          {
+            "method": "判据",
+            "result": "本地连续性仍成立（LOCAL CONTINUITY: CONFIRMED），跨锚点链路归零——两者同时成立才算断联"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "调查维基 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        },
+        {
+          "site": "archive",
+          "label": "SILVERFISH_0 档案站首页",
+          "url": "https://archive.rosmontis220.top/"
+        },
+        {
+          "site": "video",
+          "label": "【ABANDON】BV1BS876oERG",
+          "url": "https://www.bilibili.com/video/BV1BS876oERG/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-012",
+      "title": "盲续态",
+      "en": "Blind Continuity",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "通讯断联 · 静默互证",
+      "clearance": "KEY",
+      "abstract": "最后一次互相确认以后，独自走过的时间；期间没有对方回应，也没有任何新的互证出现。",
+      "findings": [
+        "「盲」指失去互相确认，不是失去记忆或方向。",
+        "断联是信号停止，盲续态是此后独自延续的时间。",
+        "它衡量的起点是最后一次互相确认。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "盲续态是本项目情感上的核心词，它的证据是《盲续态》全文而不是任何密码。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「最后一次互相确认以后，独自走过的时间」"
+          },
+          {
+            "method": "实例：《BLIND-CONTINUITY 盲续态》",
+            "result": "全书只处理「没人能确认我还在」这一段，与定义严格对应"
+          },
+          {
+            "method": "旁证：断联协议",
+            "result": "「不把沉默解释成死亡、背叛、拒绝或任务完成」——正是盲续态里唯一能遵守的规则"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "调查维基 · 断联协议",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-013",
+      "title": "载体",
+      "en": "Carrier",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "渡越 · 回返",
+      "clearance": "KEY",
+      "abstract": "能跨越锚点的介质，例如图片、书页、存档片段，或一个人反复使用的一句话；它不限于实物。",
+      "findings": [
+        "载体的范围包括语言：一个人反复使用的句子也能成为载体。",
+        "REVIEW 复核台要求判断「载体 × 路线 × 接收位置」三要素。",
+        "它是回返与渡越实际附着的东西。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "载体的定义里有一个人格化的尾项——「一个人反复使用的句子」，这是把它和其他系统术语区分开的地方。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「能跨越锚点的介质：图片、书页、存档片段、一个人反复使用的句子」"
+          },
+          {
+            "method": "落点：west_edge_backup.zip",
+            "result": "压缩包本身就是载体：跨过锚点后被现实侧的参与者打开"
+          },
+          {
+            "method": "推论",
+            "result": "载体不要求是物体，只说「能带过去」；口头重复的句子与文件在同一层级"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "archivist",
+          "label": "west_edge_backup.zip",
+          "url": "https://archivist.rosmontis220.top/archive/download/west_edge_backup.zip"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-014",
+      "title": "MIST／雾",
+      "en": "MIST",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "闻舟 · 载体",
+      "clearance": "KEY",
+      "abstract": "旧友闻舟留下的四词首字母：苔藓（moss）、铁（iron）、石头（stone）、火把（torch）。",
+      "findings": [
+        "四词对应 WEST 中「他命名的四样东西」，首字母拼成 MIST。",
+        "以 MIST 为维吉尼亚密钥可解出 SEED LAST EIGHT REVERSE。",
+        "存档告示牌要求不挖苔藓、不挖地表铁、不补石头、过最后一根火把就回来。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "MIST 是全项目复用率最高的密钥，它自己也是被解出来的：四块告示牌的首字母。",
+        "steps": [
+          {
+            "method": "起点：WEST 存档里的四块告示牌",
+            "result": "看到苔藓块不要挖 / 地表铁矿不要挖 / 缺口旁边那块石头不要补 / 过最后一根火把就回来"
+          },
+          {
+            "method": "取四样东西的首字母：moss + iron + stone + torch",
+            "result": "MIST（＝雾）"
+          },
+          {
+            "method": "用它当维吉尼亚密钥解 pack.png ALPHA 通道的密文 EMWW XIKM QQYAF ZWOQZKX",
+            "result": "SEED LAST EIGHT REVERSE（种子取最后八位并反转）"
+          },
+          {
+            "method": "复用：XIKM 真名也用它当密钥",
+            "result": "解出 LAST SAVE BEFORE RAIN"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "WEST · 解谜链与压缩包内二次解谜",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/"
+        },
+        {
+          "site": "wiki",
+          "label": "闻舟 · 旧友留下的四个词",
+          "url": "https://xikmwiki.rosmontis220.top/人物/闻舟/"
+        },
+        {
+          "site": "archivist",
+          "label": "ABANDON · FORM 端",
+          "url": "https://archivist.rosmontis220.top/archive/abandon/form/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-015",
+      "title": "巨爆大黄昏",
+      "en": "Massive-Effect Great Dusk",
+      "department": "术语表",
+      "category": "世界结构",
+      "date": "术语表",
+      "lead": "通讯断联 · 锚域",
+      "clearance": "CORE",
+      "abstract": "覆盖多个锚域并令跨维通讯完全断联的大规模效应；「巨爆」指影响范围，而非物理爆炸。",
+      "findings": [
+        "术语表明确辨析：「巨爆」不是爆炸，而是影响范围的量级。",
+        "调查维基 v2 把《大黄昏预言》重构为《巨爆大黄昏》。",
+        "协助者约定「等下一次的巨爆大黄昏结束，我们将正式碰面」。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "巨爆大黄昏最容易被误读成爆炸，术语表专门为此写了否定说明。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "「覆盖多个锚域并令跨维通讯完全断联的大规模效应」"
+          },
+          {
+            "method": "关键限定",
+            "result": "「巨爆」指影响范围而非物理爆炸——名字本身是误导读者的地方"
+          },
+          {
+            "method": "结论",
+            "result": "它是通讯事件，不是物理事件；与通讯断联是规模关系，断联是它在单锚域内的表现"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "repo",
+          "label": "Silverfish-0/great-dusk-forecast",
+          "url": "https://github.com/Silverfish-0/great-dusk-forecast"
+        },
+        {
+          "site": "archive",
+          "label": "大黄昏预测 forecast v2",
+          "url": "https://archive.rosmontis220.top/archive/forecast/v2/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-016",
+      "title": "投影",
+      "en": "Projection",
+      "department": "世界观",
+      "category": "世界结构",
+      "date": "锚点与投影",
+      "lead": "ABANDON · 载体",
+      "clearance": "CORE",
+      "abstract": "同一来源对象在不同端的呈现；投影不是副本，端与端之间的差异应被保留，而不是被纠正。",
+      "findings": [
+        "ABANDON 三端 FORM / ORDER / WITNESS 是同一来源的三个投影。",
+        "三端都自称 0.0.0，差异不被视为错误。",
+        "同一事件的多份材料共享固定细节，却在人物、地点和时间上对不上。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "投影这个概念是被 ABANDON 三端「实证」的：三份程序互不一致，而这种不一致是被要求的。",
+        "steps": [
+          {
+            "method": "工具：ABANDON 发布简介",
+            "result": "Three projections have been retained. FORM / macOS · ORDER / Windows · WITNESS / Android"
+          },
+          {
+            "method": "关键句 A projection is not a copy",
+            "result": "差异要被保留，而不是被纠正——直接否定了「副本」说法"
+          },
+          {
+            "method": "实证：三端各给一份 DAT",
+            "result": "FORM 说房间是安全的谎言、ORDER 说序列在事件之后才保留、WITNESS 给出返航记录——同一来源抛出三种口径"
+          },
+          {
+            "method": "结论",
+            "result": "投影是从同一对象射出、但各自落点不同的材料；判定投影看差异是否被要求保留"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "ABANDON 发布简介",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/ABANDON发布/"
+        },
+        {
+          "site": "wiki",
+          "label": "三端 DAT 文本",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/"
+        },
+        {
+          "site": "archivist",
+          "label": "ABANDON · WITNESS 端",
+          "url": "https://archivist.rosmontis220.top/archive/abandon/witness/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-017",
+      "title": "归档所",
+      "en": "ARC-00",
+      "department": "邮路终端",
+      "category": "组织与场所",
+      "date": "邮件谜题",
+      "lead": "归档中继 · 邮路终端",
+      "clearance": "CORE",
+      "abstract": "归档所最早没有正式名称，雨前的记录里通常只写作「所」；它保存能够重新确认的状态与状态间的转移记录。",
+      "findings": [
+        "归档员的工作很少涉及解释，只登记发生过什么、保留原件。",
+        "被推翻的旧版也一并保留，这套办法曾长期足够可靠。",
+        "西侧稳定锚第一次失效后，「雨」作为事故类别进入主库。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "归档所的名字是邮票文案给的，但「它靠什么活着」要靠西侧失效那段事故史才看得出来。",
+        "steps": [
+          {
+            "method": "起点：邮路终端第一枚邮票《归档所沿革残页》",
+            "result": "最早没有正式名称，雨前的记录里只写作「所」"
+          },
+          {
+            "method": "关键职责原句",
+            "result": "保存每次能够重新确认的状态与状态间转移记录，保留原件，也保留被推翻的旧版"
+          },
+          {
+            "method": "转折：西侧稳定锚第一次失效",
+            "result": "原本各自归档的记录开始互相出现，「雨」才作为事故类别进入主库"
+          },
+          {
+            "method": "结论",
+            "result": "归档所不是图书馆，是状态一致性机构；它保留旧版，正是为了在状态互相出现时还能对账"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "邮件谜题 · 一 · 雨前首封",
+          "url": "https://xikmwiki.rosmontis220.top/Silverfish_0/邮路终端/邮件谜题/"
+        },
+        {
+          "site": "archive",
+          "label": "邮路终端 v1",
+          "url": "https://archive.rosmontis220.top/archive/postal-terminal/v1/"
+        },
+        {
+          "site": "doc",
+          "label": "腾讯文档《邮路终端解谜》",
+          "url": "https://docs.qq.com/sheet/DVWpFakpIVmFSZkV1"
+        }
+      ],
+      "source": "https://github.com/0-silverfish/postal-terminal"
+    },
+    {
+      "id": "X-018",
+      "title": "归档中继",
+      "en": "ARCHIVE_RELAY",
+      "department": "世界观",
+      "category": "组织与场所",
+      "date": "归档中继",
+      "lead": "回返 · 缺页索引",
+      "clearance": "KEY",
+      "abstract": "归档系统的中继，也是「回返」的确认方；西侧残片交付后，它返回了有效登记，证明方向可以倒转。",
+      "findings": [
+        "它被 SILVERFISH_0 列为「我可以不代表」的一方。",
+        "实际管理者身份未明，这是缺页索引第一条（未公开）。",
+        "中继不可能为一个纯粹的收件动作使用「回返」这个词。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "归档中继之所以特殊，是因为它用了一个不该用在收件上的词。",
+        "steps": [
+          {
+            "method": "事件：west_fragment.png 交付中继",
+            "result": "中继返回「有效登记」，回返在文件层成立"
+          },
+          {
+            "method": "异常点：中继用「回返」而不是「收到」",
+            "result": "SILVERFISH_0 的判断——纯粹收件不必用回返这个词"
+          },
+          {
+            "method": "结论",
+            "result": "中继至少参与回返的确认，不只是收件口；实际管理者身份未明"
+          }
+        ],
+        "open": "中继的实际管理者是谁，是缺页索引第一条，从未公开。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "归档中继（ARCHIVE_RELAY）",
+          "url": "https://xikmwiki.rosmontis220.top/世界/归档中继/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 缺页索引",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "doc",
+          "label": "腾讯文档《XIKM HLQA ONYIEN 解谜》",
+          "url": "https://docs.qq.com/doc/DZURVVXJkS1NZWFNq"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-019",
+      "title": "THE EMPTY SEAT",
+      "en": "空席",
+      "department": "术语表",
+      "category": "组织与场所",
+      "date": "术语表",
+      "lead": "彼者与GOD · 调查维基",
+      "clearance": "KEY",
+      "abstract": "Silverfish_0 建立的秘密论坛；不显示时间，后被取得管理员权限的 GOD 清除大部分索引。",
+      "findings": [
+        "论坛账号 ADsurfb0ard 是它的成员。",
+        "被删除的不是所有帖子，而是连接帖子的方法。",
+        "它留下一句话：「能被命名的地方，就能被抵达。」"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "THE EMPTY SEAT 的关键证据不是帖子内容，而是「它不显示时间」这个界面特征。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表 + 论坛事件记录",
+            "result": "Silverfish_0 建立的秘密论坛；不显示时间"
+          },
+          {
+            "method": "被清除时留下的一句话",
+            "result": "「能被命名的地方，就能被抵达。」"
+          },
+          {
+            "method": "被删的对象",
+            "result": "不是所有帖子，而是连接帖子的方法——叙述顺序被毁，内容仍在"
+          },
+          {
+            "method": "推论",
+            "result": "不显示时间＋索引被毁，两者叠加使这个论坛在记录上变成无时序的孤岛"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "彼者与 GOD · 论坛破坏事件",
+          "url": "https://xikmwiki.rosmontis220.top/世界/彼者与GOD/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · THE EMPTY SEAT",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v3（GOD SAYS）",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v3/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-020",
+      "title": "邮路终端",
+      "en": "Postal Terminal",
+      "department": "邮路终端",
+      "category": "组织与场所",
+      "date": "邮路终端",
+      "lead": "回返 · 归档所",
+      "clearance": "CORE",
+      "abstract": "以 GitHub 仓库 0-silverfish/postal-terminal 的 Issues 为投递口的邮件互动解谜；RETURN 是其核心机制。",
+      "findings": [
+        "五枚邮票为雨前首封、星幻_StarRev、未寄之门、未署名附件、首席代理代表「#」。",
+        "投递准则要求先拍白纸与投递口的合影，再把照片投到虚拟投递口。",
+        "投递不要求寄件人；被接受会收到一段 RETURN。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "五枚邮票各有独立的进门方式，串起来就是邮路终端的完整解法。",
+        "steps": [
+          {
+            "method": "一 · 雨前首封：点白色「30」圆圈让页面变深色",
+            "result": "下方出现新区域，LOCAL 输入 6825，领取邮票"
+          },
+          {
+            "method": "二 · 星幻_StarRev：从 html 隐藏 template 取出 QQ 号与解锁要求",
+            "result": "以 1142081338 作 ID 登录，自动领取"
+          },
+          {
+            "method": "三 · 未寄之门：GitHub 提示「四舍五入」→ 密码五位",
+            "result": "点位图橙色点在每行第几位 → 62415；先输 6241 再补 5，解锁潮汐主题"
+          },
+          {
+            "method": "四 · 未署名附件：按投递准则拍「白纸＋投递口」照片投递到 Issues #2",
+            "result": "收到序列号 C-4173-6，填入附件序列栏领取"
+          },
+          {
+            "method": "五 · 首席代理代表「#」：递交一个名为「联合处置决议.txt」的文本",
+            "result": "系统接受该名号，自动领取"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "邮件谜题 · 五枚邮票全解",
+          "url": "https://xikmwiki.rosmontis220.top/Silverfish_0/邮路终端/邮件谜题/"
+        },
+        {
+          "site": "repo",
+          "label": "0-silverfish/postal-terminal #1",
+          "url": "https://github.com/0-silverfish/postal-terminal/issues/1"
+        },
+        {
+          "site": "archive",
+          "label": "邮路终端 v5",
+          "url": "https://archive.rosmontis220.top/archive/postal-terminal/v5/"
+        }
+      ],
+      "source": "https://github.com/0-silverfish/postal-terminal"
+    },
+    {
+      "id": "X-021",
+      "title": "断联协议",
+      "en": "Blackout Protocol",
+      "department": "术语表",
+      "category": "组织与场所",
+      "date": "术语表",
+      "lead": "通讯断联 · 盲续态",
+      "clearance": "KEY",
+      "abstract": "断联期间的行动规则：不把沉默解释成死亡、背叛、拒绝或任务完成；记录只追加、不覆盖。",
+      "findings": [
+        "它约束的是解释冲动：沉默本身不构成任何结论。",
+        "「只追加不覆盖」意味着断联期间不修订既有记录。",
+        "它随调查维基 v2 新增，是该版本新增的篇目之一。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "断联协议是全站唯一一份「操作规程」，它的每一条都是禁令而不是解释。",
+        "steps": [
+          {
+            "method": "工具：v2 术语表",
+            "result": "断联期间：不把沉默解释成死亡、背叛、拒绝或任务完成；只追加不覆盖"
+          },
+          {
+            "method": "为什么是禁令",
+            "result": "沉默本身不含信息，任何解释都是补写；只追加不覆盖保证旧版可对账"
+          },
+          {
+            "method": "对应制度",
+            "result": "与归档所「保留被推翻旧版」是同一条原则在个人层面的版本"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 术语表",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "调查维基 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-022",
+      "title": "缺页索引",
+      "en": "Missing Page Index",
+      "department": "世界观",
+      "category": "组织与场所",
+      "date": "归档中继",
+      "lead": "归档中继 · 归档所",
+      "clearance": "NOTE",
+      "abstract": "归档系统中的一份索引；材料只提到它的第一条，即归档中继实际管理者身份未明（未公开）。",
+      "findings": [
+        "材料只提到它的第一条，其余条目从未出现。",
+        "该条被明确标注「未公开」，无法核对完整内容。",
+        "它与归档中继的管理者问题直接相关。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "缺页索引是一个知道自己缺什么的目录，这一点让它比正文更有信息量。",
+        "steps": [
+          {
+            "method": "工具：v2 调查维基",
+            "result": "缺页索引第一条即归档中继的实际管理者身份，未公开"
+          },
+          {
+            "method": "待解清单",
+            "result": "锚点的本质、档案系统有无明确主体、Minecraft 的作用、ABANDON 的作用、玩家信息是否对等、发布日期与故事内日期的对应"
+          },
+          {
+            "method": "读法",
+            "result": "索引本身把「不知道」登记成条目——这与归档所「保留旧版」的立场一致：缺失也要留痕"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 缺页索引",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "wiki",
+          "label": "线索梳理 · 待解",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/线索梳理/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-023",
+      "title": "西侧接缝",
+      "en": "Western Seam",
+      "department": "世界观",
+      "category": "组织与场所",
+      "date": "锚点与投影",
+      "lead": "锚点 · 投影",
+      "clearance": "NOTE",
+      "abstract": "存档内部的异常区域：河流被截断、树林重复、建筑像被另一份存档覆盖；它是 WEST 的核心异象。",
+      "findings": [
+        "它位于「录像者甲」的旧 Minecraft 存档西侧。",
+        "旧友闻舟知道西侧异常，并多次阻止他过河。",
+        "它与西侧残片不同：接缝在存档内部，残片是现实侧的回返材料。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "西侧接缝是全部解谜的物理入口：没有它就没有 WEST，也就没有后面所有密码。",
+        "steps": [
+          {
+            "method": "观察：重返旧存档后基地西侧与记忆不符",
+            "result": "河流被截断、树林出现重复结构、建筑像被另一份存档错误覆盖"
+          },
+          {
+            "method": "旁证：旧友闻舟多次阻止过河",
+            "result": "他知道西侧有异常，说明异常早于录像发生"
+          },
+          {
+            "method": "可玩化：west_edge_backup.zip 与种子 -4832091765281047",
+            "result": "异常被做成可下载的存档，接缝从叙事变成可进入的场景"
+          },
+          {
+            "method": "结论",
+            "result": "接缝是两份存档互相覆盖的接缝线，不是地形 bug——重复结构是覆盖残留"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "WEST · 视频与解谜链",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/"
+        },
+        {
+          "site": "wiki",
+          "label": "ADsurfb0ard（录像者甲）",
+          "url": "https://xikmwiki.rosmontis220.top/人物/ADsurfb0ard/"
+        },
+        {
+          "site": "archivist",
+          "label": "west_edge_backup.zip",
+          "url": "https://archivist.rosmontis220.top/archive/download/west_edge_backup.zip"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-024",
+      "title": "GitHub 据点",
+      "en": "GitHub Stronghold",
+      "department": "Silverfish_0",
+      "category": "组织与场所",
+      "date": "GitHub据点",
+      "lead": "邮路终端 · 调查维基",
+      "clearance": "NOTE",
+      "abstract": "Silverfish_0 以 GitHub 账号与仓库构成的发布据点；调查维基、预言与邮路终端都存放在此。",
+      "findings": [
+        "原账号 Silverfish-0 遭攻击，9 月 20 日改号 0-silverfish。",
+        "number-of-motion 仓库含《运动之数／本地连续性探针》与两份加密记录。",
+        "换号后邮路终端上游历史被强制重写。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "GitHub 据点的时间线可以完全靠提交历史复原，这是全项目最像「取证」的一段。",
+        "steps": [
+          {
+            "method": "账号分界：Silverfish-0 → 0-silverfish",
+            "result": "原账号称遭攻击，2026-09-20 换号"
+          },
+          {
+            "method": "强制重写：旧提交 6b1ea71 / b65f684",
+            "result": "被 710fb72 / bad843c / 0df8c37 取代，邮路终端上游历史被改写"
+          },
+          {
+            "method": "内容分界",
+            "result": "换号前是调查维基草稿、forecast、number-of-motion；换号后是 postal-terminal"
+          },
+          {
+            "method": "结论",
+            "result": "两个账号不是同一时期的两个马甲，而是被迫迁移的两段；调查维基 v3 被覆写成 GOD SAYS 就发生在断档期"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "GitHub 据点 · 账号与仓库表",
+          "url": "https://xikmwiki.rosmontis220.top/Silverfish_0/GitHub据点/"
+        },
+        {
+          "site": "repo",
+          "label": "Silverfish-0/silverfish-0-investigation-wiki",
+          "url": "https://github.com/Silverfish-0/silverfish-0-investigation-wiki"
+        },
+        {
+          "site": "repo",
+          "label": "0-silverfish/postal-terminal",
+          "url": "https://github.com/0-silverfish/postal-terminal"
+        }
+      ],
+      "source": "https://github.com/Silverfish-0/silverfish-0-investigation-wiki"
+    },
+    {
+      "id": "X-025",
+      "title": "XIKM HLQA ONYIEN",
+      "en": "XIKM_HLQA_ONYIEN",
+      "department": "档案文明",
+      "category": "作品与代号",
+      "date": "账号与名字",
+      "lead": "LAST SAVE BEFORE RAIN · XIKM",
+      "clearance": "CORE",
+      "abstract": "B 站账号串联起的解谜线，从「少了一块的名字」动态开始，经 WEST、fragment、ABANDON 三个视频展开。",
+      "findings": [
+        "补全全名 XIKM_HLQA_ONYIEN_QABC，再经凯撒与维吉尼亚解出真名。",
+        "简介称名字藏在 K317 的描述里，但「我并非那位档案保管员」。",
+        "XIKM 更像材料的中转口，而不是任何事件的当事人。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "账号名本身就是第一道密码：整条链有三步，缺一步都得不到真名。",
+        "steps": [
+          {
+            "method": "起点：2026-08-21 动态「My name is missing its last piece — CV」",
+            "result": "按图中字母映射补全为 XIKM_HLQA_ONYIEN_QABC"
+          },
+          {
+            "method": "凯撒：四个词逐词位移 0 / 3 / 1 / 7",
+            "result": "XIKM · EINX · NMXHDM · JTUV"
+          },
+          {
+            "method": "维吉尼亚：以 mist 为密钥解上一步结果",
+            "result": "LAST SAVE BEFORE RAIN"
+          }
+        ],
+        "open": "「HLQA ONYIEN」在凯撒、Atbash、倒序下都解不出有意义文本，暂按风格化 ID 记录。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "账号与名字 · 完整破解链",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/账号与名字/"
+        },
+        {
+          "site": "doc",
+          "label": "腾讯文档《XIKM HLQA ONYIEN 解谜》",
+          "url": "https://docs.qq.com/doc/DZURVVXJkS1NZWFNq"
+        },
+        {
+          "site": "video",
+          "label": "B 站 XIKM_HLQA_ONYIEN",
+          "url": "https://space.bilibili.com/3493126603803061"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-026",
+      "title": "ABANDON",
+      "en": "ABANDON",
+      "department": "档案文明",
+      "category": "作品与代号",
+      "date": "ABANDON发布",
+      "lead": "投影 · RETAIN 与 THRESHOLD",
+      "clearance": "CORE",
+      "abstract": "2026-08-19 发布的三端解谜游戏；FORM（macOS）、ORDER（Windows）、WITNESS（Android）各 v0.0.0。",
+      "findings": [
+        "三端是同一来源对象的三个投影，差异要保留而不是纠正。",
+        "简介标注 ANCHOR COHERENCE: DEGRADED。",
+        "彼者只造了「一条规则」，房间、钥匙与游戏之形由人的机器赋予。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "ABANDON 是三端联动的三层解谜，第四层至今只开了门没进去。",
+        "steps": [
+          {
+            "method": "第一层：macOS 记忆排序 / Windows 比较大小 / Android 兔子洞",
+            "result": "三端各得一个 A1 密钥"
+          },
+          {
+            "method": "第二层：输入另外一端（任选）的 A1，并按同一顺序与四个图案交互",
+            "result": "得三个 A2 密钥"
+          },
+          {
+            "method": "第三层：输入另外两端的两个 A2",
+            "result": "显示三句话，本端白、另两端灰，随后各产出一个 DAT"
+          },
+          {
+            "method": "三句话里 FORM WAS NEVER COMPLETE 是提示",
+            "result": "选关界面输入 4 进入隐藏第四关"
+          }
+        ],
+        "open": "隐藏第四关的密码至今没有解出；三端 DAT 齐备后才能把文件融合进 THRESHOLD。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "ABANDON · 玩法与解谜（三层流程）",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/玩法与解谜/"
+        },
+        {
+          "site": "wiki",
+          "label": "三端 DAT 文本",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/"
+        },
+        {
+          "site": "archivist",
+          "label": "ABANDON · ORDER 端",
+          "url": "https://archivist.rosmontis220.top/archive/abandon/order/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-027",
+      "title": "RETAIN 与 THRESHOLD",
+      "en": "RETAIN / THRESHOLD",
+      "department": "档案文明",
+      "category": "作品与代号",
+      "date": "RETAIN与THRESHOLD",
+      "lead": "ABANDON · 回返",
+      "clearance": "KEY",
+      "abstract": "三端 DAT 齐备后开放的两个后续游戏；RETAIN 可在浏览器直接游玩，THRESHOLD 需融合三个 DAT 进入。",
+      "findings": [
+        "THRESHOLD 共 6 关，迷宫路线图形为 231705。",
+        "终密码 23170510723 = 路线 231705 +《诗篇》107:23。",
+        "通关后得到闻舟与彼者的全英文对话及返航邮件模板。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "终密码是把两个互不相关的答案拼在一起：一个靠走，一个靠查。",
+        "steps": [
+          {
+            "method": "三端 DAT 齐备后在 macOS 端融合",
+            "result": "进入新游戏 THRESHOLD，共 6 关迷宫"
+          },
+          {
+            "method": "走完六关，记录路线图形",
+            "result": "231705"
+          },
+          {
+            "method": "密码页提示 THE PASSAGE IN THE BIBLE",
+            "result": "按之前的解图方法解出 THEY THAT GO DOWN TO THE SEA IN SHIPS →《诗篇》107:23 → 保留数字 10723"
+          },
+          {
+            "method": "路线 + 圣经编号拼接",
+            "result": "终密码 23170510723"
+          },
+          {
+            "method": "输入后得到闻舟与彼者的全英文对话",
+            "result": "即《FULL DIALOGUE：UNSET ENTER》，并给出返航邮件模板"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "RETAIN 与 THRESHOLD · 迷宫与终密码",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/RETAIN与THRESHOLD/"
+        },
+        {
+          "site": "archivist",
+          "label": "RETAIN 线上版",
+          "url": "https://archivist.rosmontis220.top/archive/retain/"
+        },
+        {
+          "site": "archivist",
+          "label": "《FULL DIALOGUE：UNSET ENTER》汉化 PDF",
+          "url": "https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-028",
+      "title": "小游戏三部曲",
+      "en": "GROUP / TRADE / REVIEW",
+      "department": "档案文明",
+      "category": "作品与代号",
+      "date": "小游戏三部曲",
+      "lead": "ABANDON · 调查维基",
+      "clearance": "KEY",
+      "abstract": "GROUP（推箱）、TRADE（卡牌）、REVIEW（十六案卷复核）三部相互关联的网页小游戏，以钥匙链相连。",
+      "findings": [
+        "钥匙链为 GROUP → TRADE → REVIEW，通向三个结局。",
+        "REVIEW 含 94 条隐藏文本，其中「蠹巢」层 14 条。",
+        "三结局分别产出 ARG-#ARCHIVIST-57940 与 MISTERY-12345。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "三部曲是三套完全不同的机制，但密钥共用一套编号规则（ARG-#系列）。",
+        "steps": [
+          {
+            "method": "GROUP：推箱，把两个箱子推到两个槽位",
+            "result": "密码 28409163 → 密钥 ARG-#ARCHIVIST-60742"
+          },
+          {
+            "method": "REVIEW：ACCESS KEY 输入 ARG-#REVIEW-73104，129 可解锁中文",
+            "result": "四关：推箱 / 九节管线 / 折叠投影 / 复核台 + 十六案卷"
+          },
+          {
+            "method": "TRADE：红＞黄＞绿＞黑＞红，克制时数值 +2、同色相邻 +1",
+            "result": "赢下四局后拿枪击杀对手，进入真结局"
+          },
+          {
+            "method": "REVIEW 三结局：红黄绿黑提交 / 右下最后一级阶梯按 E / 输入 MISTERY-12345 打 BOSS",
+            "result": "ARG-#ARCHIVIST-57940 / MISTERY-12345 / ARG-#TRUTH-3927840"
+          }
+        ],
+        "open": "GROUP 密码 28409163 的推导过程，原文标注「待作者填写」，至今空白。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "REVIEW · 四关与十六案卷",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/小游戏三部曲/REVIEW/"
+        },
+        {
+          "site": "wiki",
+          "label": "三个结局与密钥",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/小游戏三部曲/结局/"
+        },
+        {
+          "site": "archivist",
+          "label": "REVIEW 线上版",
+          "url": "https://archivist.rosmontis220.top/archive/review-web/"
+        },
+        {
+          "site": "doc",
+          "label": "腾讯文档《小游戏三部曲解谜》",
+          "url": "https://docs.qq.com/sheet/DVXB2ZmR1emZEVkhD"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-029",
+      "title": "调查维基",
+      "en": "Investigation Wiki",
+      "department": "Silverfish_0",
+      "category": "作品与代号",
+      "date": "Silverfish_0",
+      "lead": "SILVERFISH_0 · 彼者与GOD",
+      "clearance": "KEY",
+      "abstract": "SILVERFISH_0 建立的档案调查维基，v1 二十篇、v2 二十一篇；v3 被覆写为 GOD SAYS。",
+      "findings": [
+        "v2 新增《断联协议》，并把《大黄昏预言》重构为《巨爆大黄昏》。",
+        "v3 的作者署名被覆盖，标题改为 GOD SAYS。",
+        "GOD SAYS 展开为 16 种语言启示、52 哀歌、20 系统错误与 16 狂热宣言。",
+        "线上那份只有五个文件：index.html、app.js、style.css、background.png、god.m4a；没有 md，也没有导航结构。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "三个版本的差别本身就是证据：v3 不是续写，是被覆盖。",
+        "steps": [
+          {
+            "method": "v1：content.js 42KB",
+            "result": "术语表原始版，条目较少"
+          },
+          {
+            "method": "v2：content.js 47KB",
+            "result": "补入十六案卷、缺页索引、十只蠹虫等条目"
+          },
+          {
+            "method": "v3：只剩 app.js，标题改为 GOD SAYS",
+            "result": "展开为 16 种语言启示 + 50 哀歌 + 20 系统错误 + 16 狂热宣言，作者署名被覆盖"
+          },
+          {
+            "method": "比对文件清单",
+            "result": "v1 / v2 结构与体积接近，v3 是另一套程序，说明不是同一次编辑"
+          },
+          {
+            "method": "线上仓库 tree：5 个文件",
+            "result": "启示、哀歌、错误与宣言全部写在 app.js 里，语言靠 revelations 数组切换；这不是 wiki 程序，是一页装置"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "调查维基 v1",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v1/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v3（GOD SAYS）",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v3/"
+        },
+        {
+          "site": "repo",
+          "label": "线上页 · GitHub Pages",
+          "url": "https://silverfish-0.github.io/silverfish-0-investigation-wiki/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/"
+    },
+    {
+      "id": "X-030",
+      "title": "ADR《灰昼校勘本》",
+      "en": "ADR",
+      "department": "世界观",
+      "category": "作品与代号",
+      "date": "彼者与GOD",
+      "lead": "闻舟 · 彼者与GOD",
+      "clearance": "KEY",
+      "abstract": "一部形成于「不可能存在最终定本」之处的校勘本；人类能翻阅的那一册只是为阅读而套上的一层皮。",
+      "findings": [
+        "严格说来它并不是一本书，而是一部校勘本。",
+        "闻舟是它的研究者，彼者指出「汝无法独自把它完成」。",
+        "校勘通常要比对版本，而它所在之处不存在最终定本。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "ADR 的定义是一串否定句，它先说清「不是什么」，才勉强给出「是什么」。",
+        "steps": [
+          {
+            "method": "工具：彼者与 GOD · ADR 段",
+            "result": "「严格说来并不是一本书」"
+          },
+          {
+            "method": "关键限定",
+            "result": "形成于「不可能存在最终定本」之处的校勘本——校勘本的前提是有定本，这里前提被抽掉"
+          },
+          {
+            "method": "人类那一册",
+            "result": "只是一层为人类阅读而套上的皮"
+          },
+          {
+            "method": "关联：闻舟是 ADR 研究者",
+            "result": "他追问彼者档案馆的本质时，问的正是 ADR"
+          }
+        ],
+        "open": "没有任何材料展示过 ADR 正文，只留下对它的描述。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "彼者与 GOD · ABANDON 与 ADR",
+          "url": "https://xikmwiki.rosmontis220.top/世界/彼者与GOD/"
+        },
+        {
+          "site": "wiki",
+          "label": "闻舟 · 档案员",
+          "url": "https://xikmwiki.rosmontis220.top/人物/闻舟/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-031",
+      "title": "计划代号",
+      "en": "INSIGHT FUTURE THROUGH THE FOG",
+      "department": "术语表",
+      "category": "作品与代号",
+      "date": "术语表",
+      "lead": "巨爆大黄昏 · SILVERFISH_0",
+      "clearance": "KEY",
+      "abstract": "「穿过迷雾洞察未来」的计划代号；四个词各对应一类操作——观察、投射、跨越、遮蔽。",
+      "findings": [
+        "SILVERFISH_0 按「他们」给的这一代号制作大黄昏预言网站并发布预测。",
+        "代号是完整英文短句，不是缩写。",
+        "每个词都承担一类操作，读法本身就是说明。"
+      ],
+      "trace": {
+        "kind": "定义出处",
+        "note": "代号本身不是密码，但四个词各对应一类操作，这一点只在 readme 里讲。",
+        "steps": [
+          {
+            "method": "载体：wiki v2 附件 readme.zip",
+            "result": "给出计划代号 INSIGHT FUTURE THROUGH THE FOG（穿过迷雾洞察未来）"
+          },
+          {
+            "method": "术语表归纳",
+            "result": "四个词各对应一类操作——观察、投射、跨越、遮蔽"
+          },
+          {
+            "method": "与 MIST 的关系",
+            "result": "「雾／MIST」既是代号里的 FOG，也是维吉尼亚密钥；同名不同用"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "archive",
+          "label": "wiki v2 · readme.zip",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/readme.zip"
+        },
+        {
+          "site": "wiki",
+          "label": "调查维基 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-032",
+      "title": "LAST SAVE BEFORE RAIN",
+      "en": "LAST SAVE BEFORE RAIN",
+      "department": "术语表",
+      "category": "作品与代号",
+      "date": "术语表",
+      "lead": "XIKM · MIST",
+      "clearance": "NOTE",
+      "abstract": "XIKM_HLQA_ONYIEN 账号的真名；由补全名经凯撒 0/3/1/7 与维吉尼亚（密钥 mist）解出。",
+      "findings": [
+        "解谜链：补全 QABC → 凯撒逐词位移 → 以 mist 为密钥解密。",
+        "术语表把它列在「密钥与代码」首条。",
+        "它与首枚邮票「雨前首封」共用「雨前」二字，材料未说明关联。"
+      ],
+      "trace": {
+        "kind": "解谜链",
+        "note": "这是全项目最短也最完整的一条链：三个动作，得到一句像遗言的句子。",
+        "steps": [
+          {
+            "method": "补全：动态提示 + 图中字母映射",
+            "result": "XIKM_HLQA_ONYIEN_QABC"
+          },
+          {
+            "method": "凯撒：四词逐词位移 0 / 3 / 1 / 7",
+            "result": "XIKM_EINX_NMXHDM_JTUV"
+          },
+          {
+            "method": "维吉尼亚：密钥 mist（苔藓/铁/石头/火把首字母）",
+            "result": "LAST SAVE BEFORE RAIN —— 雨前最后一次存档"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "账号与名字 · 破解链三步",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/账号与名字/"
+        },
+        {
+          "site": "wiki",
+          "label": "XIKM · 账号真名",
+          "url": "https://xikmwiki.rosmontis220.top/人物/XIKM/"
+        },
+        {
+          "site": "doc",
+          "label": "腾讯文档《XIKM HLQA ONYIEN 解谜》",
+          "url": "https://docs.qq.com/doc/DZURVVXJkS1NZWFNq"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-033",
+      "title": "闻舟",
+      "en": "Wenzhou",
+      "department": "人物",
+      "category": "人物",
+      "date": "闻舟",
+      "lead": "MIST · ADsurfb0ard",
+      "clearance": "CORE",
+      "abstract": "档案文明多组材料中反复出现的名字，至少对应档案员、录像者甲的旧友、英国学者三个互不相同的人。",
+      "findings": [
+        "三者是否为同一人没有直接证据，材料里的身份信息互相冲突。",
+        "档案员闻舟研究 ADR，并把这份工作带来的改变称为「成为半神」。",
+        "旧友闻舟留下苔藓、铁、石头、火把四个词，即 MIST。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "同名是本站记录得最克制的一条：三个身份分开写，拒绝合并。",
+        "steps": [
+          {
+            "method": "档案员：FULL DIALOGUE 表头「源记录时档案员状态：在职」",
+            "result": "与彼者完成阈限对话，把这份工作的改变称为「成为半神」"
+          },
+          {
+            "method": "旧友：WEST 里反复阻止录像者甲过河",
+            "result": "留下苔藓/铁/石头/火把四词，冷开场在微信里问「那现在删什么」"
+          },
+          {
+            "method": "英国学者：出现在另一组调查材料",
+            "result": "身份、经历、活动环境都与旧友不同"
+          },
+          {
+            "method": "旁证：ABANDON 简介 SOURCE SUBJECT: WENZHOU",
+            "result": "说明来源对象确实叫这个名字，但不区分是哪一个"
+          }
+        ],
+        "open": "没有任何一份材料给出两个「闻舟」是同一人的直接证据；未解的是名字为何重复，不是怎样把两人合并。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "闻舟 · 三个身份对照",
+          "url": "https://xikmwiki.rosmontis220.top/人物/闻舟/"
+        },
+        {
+          "site": "archivist",
+          "label": "《FULL DIALOGUE：UNSET ENTER》汉化 PDF",
+          "url": "https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf"
+        },
+        {
+          "site": "video",
+          "label": "【WEST】BV15Vub68EGm",
+          "url": "https://www.bilibili.com/video/BV15Vub68EGm/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-034",
+      "title": "XIKM",
+      "en": "XIKM",
+      "department": "人物",
+      "category": "人物",
+      "date": "XIKM",
+      "lead": "LAST SAVE BEFORE RAIN · 闻舟",
+      "clearance": "KEY",
+      "abstract": "档案文明材料的接收者、整理者或中转者，即 B 站账号 XIKM_HLQA_ONYIEN 的运营者。",
+      "findings": [
+        "账号本名经解谜为 LAST SAVE BEFORE RAIN。",
+        "简介称「我并非那位档案保管员」，与在职档案员闻舟形成对照。",
+        "「HLQA ONYIEN」在凯撒、Atbash、倒序下均未解出，待考。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "判定 XIKM 是「中转口」靠的不是身份描述，而是他做的事：只在交接处出现。",
+        "steps": [
+          {
+            "method": "行为面：账号发布 WEST / fragment / ABANDON 三个视频",
+            "result": "都是材料交接动作，没有一处是他本人卷入事件"
+          },
+          {
+            "method": "自述：「我的名字隐藏在 K317 的描述里，但我不是那位档案保管员」",
+            "result": "主动与在职档案员划清界限"
+          },
+          {
+            "method": "对照：真名 LAST SAVE BEFORE RAIN 由前人留下的密钥解出",
+            "result": "名字本身是被解出来的，说明它服务于别人留下的谜题"
+          }
+        ],
+        "open": "HLQA ONYIEN 至今没有解出，凯撒、Atbash、倒序均无意义。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "XIKM · 人物页",
+          "url": "https://xikmwiki.rosmontis220.top/人物/XIKM/"
+        },
+        {
+          "site": "wiki",
+          "label": "锚点与投影 · K317",
+          "url": "https://xikmwiki.rosmontis220.top/世界/锚点与投影/"
+        },
+        {
+          "site": "video",
+          "label": "【fragment】BV1fnuz6eEh8",
+          "url": "https://www.bilibili.com/video/BV1fnuz6eEh8/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-035",
+      "title": "ADsurfb0ard",
+      "en": "AD",
+      "department": "人物",
+      "category": "人物",
+      "date": "ADsurfb0ard",
+      "lead": "闻舟 · THE EMPTY SEAT",
+      "clearance": "KEY",
+      "abstract": "本 ARG 玩家之一、秘密论坛 THE EMPTY SEAT 成员，也是【WEST】的主人公，调查维基编号「录像者甲」。",
+      "findings": [
+        "他是那座旧 Minecraft 存档的玩家，对旧存档有真实情感依赖。",
+        "重返后发现基地西侧与记忆不符，旧友闻舟多次阻止他过河。",
+        "在【WEST】中他拿到一份台本并配合完成了演出。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "「录像者甲」与「ADsurfb0ard」是两个体系给的编号，指同一个人。",
+        "steps": [
+          {
+            "method": "调查维基给的临时编号：录像者甲",
+            "result": "对 WEST 视频主人公的指称"
+          },
+          {
+            "method": "论坛账号：ADsurfb0ard",
+            "result": "THE EMPTY SEAT 成员"
+          },
+          {
+            "method": "合并依据：WEST 简介与视频内容",
+            "result": "视频主人公即 AD 本人，且他拿到一份台本并配合完成演出"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "ADsurfb0ard · 人物页",
+          "url": "https://xikmwiki.rosmontis220.top/人物/ADsurfb0ard/"
+        },
+        {
+          "site": "wiki",
+          "label": "WEST · 视频说明",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 录像者甲",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-036",
+      "title": "SILVERFISH_0",
+      "en": "Silverfish_0",
+      "department": "人物",
+      "category": "人物",
+      "date": "Silverfish_0",
+      "lead": "调查维基 · 断联协议",
+      "clearance": "CORE",
+      "abstract": "公开材料里的调查者、整理者、发布者与引导者；自称跨锚时姓名、具体年龄与连续经历被剥掉。",
+      "findings": [
+        "SILVERFISH_0 是索引名而非出生名，后缀 0 意为「尚未确定原点」。",
+        "名字有两个来源：Minecraft 的蠹虫，与纸张档案缝隙里存活的东西。",
+        "断联后无法自证仍能回应；本地记录明言「看到它不代表作者现在仍能回应」。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "这个名字有两个来源，两条都不是官方解释，而是材料里留下的用法。",
+        "steps": [
+          {
+            "method": "来源一：十只蠹虫",
+            "result": "蠹虫是「在纸张和档案缝隙里存活的东西」"
+          },
+          {
+            "method": "来源二：断联语境",
+            "result": "SILVERFISH_0 是断联期间仍在写记录的一方，档案站因此叫「断联前后的完整记录」"
+          },
+          {
+            "method": "行为判定：面对 GOD 的解释",
+            "result": "「那不是神。神不需要借权限，也不需要删除数据库」——按工程与取证口径看事件，不按神启口径"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "十只蠹虫 · 名字来源",
+          "url": "https://xikmwiki.rosmontis220.top/世界/十只蠹虫/"
+        },
+        {
+          "site": "wiki",
+          "label": "GitHub 据点 · 账号迁移",
+          "url": "https://xikmwiki.rosmontis220.top/Silverfish_0/GitHub据点/"
+        },
+        {
+          "site": "archive",
+          "label": "SILVERFISH_0 档案站首页",
+          "url": "https://archive.rosmontis220.top/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/"
+    },
+    {
+      "id": "X-037",
+      "title": "Mac Trang Phat",
+      "en": "Mac Trang Phat",
+      "department": "人物",
+      "category": "人物",
+      "date": "Mac Trang Phat",
+      "lead": "回返 · ABANDON",
+      "clearance": "NOTE",
+      "abstract": "ABANDON WITNESS 端 DAT 记录《EXTERNAL RETURN RECORD 0001》中的留名者，完成过一次状态 ACCEPTED 的 WEST RETURN。",
+      "findings": [
+        "IDENTIFIER 1809982305 格式像即时通讯账号，指向未确认。",
+        "WITNESS 端 DAT 全文仅五行，此外没有他的行为记录。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "这个人的全部资料就是一份五行记录，没有第二处出处。",
+        "steps": [
+          {
+            "method": "唯一来源：ABANDON WITNESS 端 DAT",
+            "result": "EXTERNAL RETURN RECORD 0001 / NAME RETAINED: Mac Trang Phat / IDENTIFIER RETAINED: 1809982305"
+          },
+          {
+            "method": "记录字段读法",
+            "result": "EVENT: WEST RETURN、STATUS: ACCEPTED——他完成过一次被接受的返航"
+          },
+          {
+            "method": "IDENTIFIER 格式比对",
+            "result": "1809982305 形似即时通讯账号，但未确认指向"
+          }
+        ],
+        "open": "除这份 DAT 外，全材料再没出现过这个名字，也没有他的任何行为记录。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "Mac Trang Phat · 人物页",
+          "url": "https://xikmwiki.rosmontis220.top/人物/Mac Trang Phat/"
+        },
+        {
+          "site": "wiki",
+          "label": "三端 DAT 文本 · WITNESS",
+          "url": "https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/"
+        },
+        {
+          "site": "archivist",
+          "label": "ABANDON · WITNESS 端",
+          "url": "https://archivist.rosmontis220.top/archive/abandon/witness/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-038",
+      "title": "星幻_StarRev",
+      "en": "StarRev",
+      "department": "人物",
+      "category": "人物",
+      "date": "星幻_StarRev",
+      "lead": "邮路终端 · SILVERFISH_0",
+      "clearance": "KEY",
+      "abstract": "本 ARG 玩家之一、本 wiki 的建立者与维护者，在剧情中是邮路终端名义上的管理员。",
+      "findings": [
+        "ID 为其 QQ 用户名，签名出自《废墟图书馆》。",
+        "邮路终端 v1 模板碎片中受赠一枚邮票，第二枚邮票以其命名。",
+        "两个现实侧档案站均由他制作，与 Silverfish_0 无关。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "他是唯一一个同时出现在「剧情内」与「剧情外」的人，两边的证据要分开看。",
+        "steps": [
+          {
+            "method": "剧情内：邮路终端 v1 模板碎片",
+            "result": "碎片里发出自己的 QQ 号，受赠一枚邮票；第二枚邮票以其命名"
+          },
+          {
+            "method": "剧情内：v2 起与终端有关",
+            "result": "成为邮路终端名义上的管理员"
+          },
+          {
+            "method": "现实侧：两个档案站的制作者",
+            "result": "SILVERFISH_0-Archive 与 ARCHIVIST-Repository 均由他制作，与 Silverfish_0 无关"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "星幻_StarRev · 人物页",
+          "url": "https://xikmwiki.rosmontis220.top/人物/星幻_StarRev/"
+        },
+        {
+          "site": "wiki",
+          "label": "邮件谜题 · 二 · 星幻_StarRev",
+          "url": "https://xikmwiki.rosmontis220.top/Silverfish_0/邮路终端/邮件谜题/"
+        },
+        {
+          "site": "archive",
+          "label": "SILVERFISH_0 档案站首页",
+          "url": "https://archive.rosmontis220.top/"
+        },
+        {
+          "site": "archivist",
+          "label": "ARCHIVIST 留档首页",
+          "url": "https://archivist.rosmontis220.top/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-039",
+      "title": "dreaMRan",
+      "en": "dreaMRan",
+      "department": "人物",
+      "category": "人物",
+      "date": "协助者",
+      "lead": "SILVERFISH_0 · 调查维基",
+      "clearance": "NOTE",
+      "abstract": "四名协助者的领头者；他知道一部分不该由普通观察者知道的路径，是本 ARG 的玩家之一。",
+      "findings": [
+        "SILVERFISH_0 给他留了一道不会直接出现在网页正文里的门。",
+        "通过验证不等于取得信任，只等于「值得进入下一轮对话」。",
+        "四名协助者按甲乙丙丁临时编号，分工为发现入口、保存原件、复算、质疑前提。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "四个人不是角色，是分工；这一点由作者自己标注的可信度反证。",
+        "steps": [
+          {
+            "method": "起点：SILVERFISH_0 给 dreaMRan 留的门",
+            "result": "门不出现在网页正文里——找到只说明注意到异常，解开才说明理解提示方式"
+          },
+          {
+            "method": "四人分工（临时编号，非固定身份）",
+            "result": "甲发现入口／乙保存原件／丙复算密码／丁质疑前提，作者自评可信度中、中高、中、高"
+          },
+          {
+            "method": "作者的否定",
+            "result": "「四个人没有特殊血统，也没有固定职业」——把他们神秘化会让后来者忽视真正重要的东西"
+          },
+          {
+            "method": "结论",
+            "result": "可信度最高的是「丁」，因为他做的事最接近验证：把讨论拉回证据"
+          }
+        ]
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "dreaMRan 与四名协助者",
+          "url": "https://xikmwiki.rosmontis220.top/人物/协助者/"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v2 · 四名协助者",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/"
+        },
+        {
+          "site": "archive",
+          "label": "wiki v2 · readme.zip",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v2/readme.zip"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v1/"
+    },
+    {
+      "id": "X-040",
+      "title": "彼者与GOD",
+      "en": "The Other · GOD",
+      "department": "世界观",
+      "category": "人物",
+      "date": "彼者与GOD",
+      "lead": "闻舟 · 调查维基",
+      "clearance": "CORE",
+      "abstract": "档案馆中的神性阵营，也是论坛事件的破坏者；「彼者」与「GOD」两个称谓指向同一方的一对存在。",
+      "findings": [
+        "另一位注视「归返 RETURN」，彼者注视可被多个见证者共同承载的事物。",
+        "语言不是它的声音：进入人的是意义，言语由听者自己披上。",
+        "档案馆无法留存它，只能留存它经过后仍残留在原处的东西。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "这一方所有的「属性」都是从它的失败记录里反推的：它无法留存、无法被登记、也不需要借权限。",
+        "steps": [
+          {
+            "method": "起点：《FULL DIALOGUE》表头",
+            "result": "「未留存神性主体。人类残留：部分。语义渲染：依听者而定。」"
+          },
+          {
+            "method": "二者之分的依据",
+            "result": "另一位注视归返，彼者注视可被多个见证者共同承载的事物；闻舟称之为分布式观测"
+          },
+          {
+            "method": "语言问题",
+            "result": "「没有任何语言从吾传到汝」——所以从来没有一段干净的原始音频可清理"
+          },
+          {
+            "method": "行为面：GOD 清除 THE EMPTY SEAT 索引",
+            "result": "SILVERFISH_0 判断「那不是神。神不需要借权限，也不需要删除数据库」"
+          },
+          {
+            "method": "档案口径",
+            "result": "《GOD 档案文明摘要》里 COUNT 字段在所有副本中均为 N/A，大黄昏从未把它登记为可判定对象"
+          }
+        ],
+        "open": "不能说它「免疫」于大黄昏，只能说它「从未被登记」；这两句的差别是全部材料的立场。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "彼者 · GOD",
+          "url": "https://xikmwiki.rosmontis220.top/世界/彼者与GOD/"
+        },
+        {
+          "site": "archivist",
+          "label": "《GOD 档案文明摘要》PDF",
+          "url": "https://archivist.rosmontis220.top/archive/download/GOD_档案文明摘要_silverfish_0汉化.pdf"
+        },
+        {
+          "site": "archive",
+          "label": "调查维基 v3（GOD SAYS）",
+          "url": "https://archive.rosmontis220.top/archive/wiki/v3/"
+        }
+      ],
+      "source": "https://archive.rosmontis220.top/archive/wiki/v2/"
+    },
+    {
+      "id": "X-041",
+      "title": "档案维基",
+      "en": "ARCHIVIST Wiki",
+      "department": "站点",
+      "category": "组织与场所",
+      "date": "ARCHIVIST-Wiki",
+      "lead": "Rosmontis220 · MkDocs Material",
+      "clearance": "CORE",
+      "abstract": "Rosmontis220 维护的 ARG 知识库，用 MkDocs Material 生成并发布在 xikmwiki.rosmontis220.top；它只做整理与索引，任何结论都要能回指原始材料。",
+      "findings": [
+        "站名 ARCHIVIST Wiki，副题是「档案文明 · Silverfish_0 —— ARG 知识库」：两套材料并列，不合成一套设定。",
+        "导航是手写的五个栏目：首页、档案文明、Silverfish_0、世界观、人物；全站 39 页，不写进 nav 的页面仍可按 URL 打开，但不进侧栏。",
+        "页面格式被规范钉死：H1 就是条目名，front matter 不写 title，每页末尾必须有「参考来源」。",
+        "引用原文（邮票文案、动态、游戏内文本）用引用块逐字保留，不改写不翻译；表格的行列与原文档一致，缺的格子如实留空。",
+        "剧透分级：世界观与人物条目基本不含答案，只有作品的「玩法与解谜」「结局」才给完整过程，并用折叠块标注。",
+        "媒体统一收在 docs/media/ 的 stamps、rooms、avatars、forum、doc1 等子目录，不随页面另建图片目录。",
+        "提交前要求 python -m mkdocs build 零 WARNING，断链与找不到的图片都会在这里暴露；合并后 Pages 自动部署。"
+      ],
+      "trace": {
+        "kind": "推断链",
+        "note": "这条描述的是站点本身而不是游戏文本，证据分三处：构建配置、目录树、写作规范，结论按三处对齐后给出。",
+        "steps": [
+          {
+            "method": "读 mkdocs.yml 头部",
+            "result": "site_name=ARCHIVIST Wiki、site_url=xikmwiki.rosmontis220.top、theme.name=material、language=zh"
+          },
+          {
+            "method": "读 nav 段",
+            "result": "五个一级栏目：首页 / 档案文明 / Silverfish_0 / 世界观 / 人物，全部手工登记，没有自动生成"
+          },
+          {
+            "method": "数 docs/ 下的 .md",
+            "result": "39 页：档案文明 19、人物 7、世界观 6、Silverfish_0 4、首页 3"
+          },
+          {
+            "method": "读 编写规范.md",
+            "result": "H1=条目名、front matter 不放 title、页末必须有「参考来源」、引用原文逐字保留、实数以原文档统计为准"
+          },
+          {
+            "method": "核对线上首页源码",
+            "result": "generator=mkdocs-1.6.1 / mkdocs-material-9.8.0，只引 extra.css；仓库里的 overrides/ 外壳没有出现在线上"
+          },
+          {
+            "method": "把四处对齐",
+            "result": "站点是指引层：它不生产新结论，只把结论指回腾讯文档、两座档案站与 GitHub"
+          }
+        ],
+        "open": "线上外壳与仓库不一致：overrides/ 与 assets/rhine.css 已在仓库里，最近一次构建却没带上，仓库内没有记录原因。"
+      },
+      "refs": [
+        {
+          "site": "wiki",
+          "label": "首页 · 站点总览",
+          "url": "https://xikmwiki.rosmontis220.top/"
+        },
+        {
+          "site": "wiki",
+          "label": "编写规范 · 改动流程",
+          "url": "https://xikmwiki.rosmontis220.top/编写规范/"
+        },
+        {
+          "site": "wiki",
+          "label": "入门 · 阅读顺序",
+          "url": "https://xikmwiki.rosmontis220.top/入门/"
+        },
+        {
+          "site": "wiki",
+          "label": "世界观 · 术语表",
+          "url": "https://xikmwiki.rosmontis220.top/世界/术语表/"
+        },
+        {
+          "site": "repo",
+          "label": "ARCHIVIST-Wiki · mkdocs.yml",
+          "url": "https://github.com/Rosmontis220/ARCHIVIST-Wiki/blob/main/mkdocs.yml"
+        }
+      ],
+      "source": "https://xikmwiki.rosmontis220.top/编写规范/"
+    }
+  ]
+}

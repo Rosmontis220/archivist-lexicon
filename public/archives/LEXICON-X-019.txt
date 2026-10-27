@@ -1,0 +1,37 @@
+﻿ARCHIVIST · LEXICON
+FILE X-019 / THE EMPTY SEAT
+空席
+
+归属：术语表
+编目范围：术语表
+相关人物：彼者与GOD · 调查维基
+访问范围：KEY
+
+Silverfish_0 建立的秘密论坛；不显示时间，后被取得管理员权限的 GOD 清除大部分索引。
+
+推演链（推断链）
+THE EMPTY SEAT 的关键证据不是帖子内容，而是「它不显示时间」这个界面特征。
+
+1. 工具：v2 术语表 + 论坛事件记录
+   → Silverfish_0 建立的秘密论坛；不显示时间
+2. 被清除时留下的一句话
+   → 「能被命名的地方，就能被抵达。」
+3. 被删的对象
+   → 不是所有帖子，而是连接帖子的方法——叙述顺序被毁，内容仍在
+4. 推论
+   → 不显示时间＋索引被毁，两者叠加使这个论坛在记录上变成无时序的孤岛
+
+附注
+1. 论坛账号 ADsurfb0ard 是它的成员。
+2. 被删除的不是所有帖子，而是连接帖子的方法。
+3. 它留下一句话：「能被命名的地方，就能被抵达。」
+
+溯源
+- [WIKI] 彼者与 GOD · 论坛破坏事件
+  https://xikmwiki.rosmontis220.top/世界/彼者与GOD/
+- [ARCHIVE] 调查维基 v2 · THE EMPTY SEAT
+  https://archive.rosmontis220.top/archive/wiki/v2/
+- [ARCHIVE] 调查维基 v3（GOD SAYS）
+  https://archive.rosmontis220.top/archive/wiki/v3/
+
+本文为基于公开材料的档案式改写，非游戏原文。

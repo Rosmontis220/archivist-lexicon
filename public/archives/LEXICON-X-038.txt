@@ -1,0 +1,37 @@
+﻿ARCHIVIST · LEXICON
+FILE X-038 / 星幻_StarRev
+StarRev
+
+归属：人物
+编目范围：星幻_StarRev
+相关人物：邮路终端 · SILVERFISH_0
+访问范围：KEY
+
+本 ARG 玩家之一、本 wiki 的建立者与维护者，在剧情中是邮路终端名义上的管理员。
+
+推演链（推断链）
+他是唯一一个同时出现在「剧情内」与「剧情外」的人，两边的证据要分开看。
+
+1. 剧情内：邮路终端 v1 模板碎片
+   → 碎片里发出自己的 QQ 号，受赠一枚邮票；第二枚邮票以其命名
+2. 剧情内：v2 起与终端有关
+   → 成为邮路终端名义上的管理员
+3. 现实侧：两个档案站的制作者
+   → SILVERFISH_0-Archive 与 ARCHIVIST-Repository 均由他制作，与 Silverfish_0 无关
+
+附注
+1. ID 为其 QQ 用户名，签名出自《废墟图书馆》。
+2. 邮路终端 v1 模板碎片中受赠一枚邮票，第二枚邮票以其命名。
+3. 两个现实侧档案站均由他制作，与 Silverfish_0 无关。
+
+溯源
+- [WIKI] 星幻_StarRev · 人物页
+  https://xikmwiki.rosmontis220.top/人物/星幻_StarRev/
+- [WIKI] 邮件谜题 · 二 · 星幻_StarRev
+  https://xikmwiki.rosmontis220.top/Silverfish_0/邮路终端/邮件谜题/
+- [ARCHIVE] SILVERFISH_0 档案站首页
+  https://archive.rosmontis220.top/
+- [ARCHIVIST] ARCHIVIST 留档首页
+  https://archivist.rosmontis220.top/
+
+本文为基于公开材料的档案式改写，非游戏原文。

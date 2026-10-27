@@ -1,0 +1,35 @@
+﻿ARCHIVIST · LEXICON
+FILE X-035 / ADsurfb0ard
+AD
+
+归属：人物
+编目范围：ADsurfb0ard
+相关人物：闻舟 · THE EMPTY SEAT
+访问范围：KEY
+
+本 ARG 玩家之一、秘密论坛 THE EMPTY SEAT 成员，也是【WEST】的主人公，调查维基编号「录像者甲」。
+
+推演链（推断链）
+「录像者甲」与「ADsurfb0ard」是两个体系给的编号，指同一个人。
+
+1. 调查维基给的临时编号：录像者甲
+   → 对 WEST 视频主人公的指称
+2. 论坛账号：ADsurfb0ard
+   → THE EMPTY SEAT 成员
+3. 合并依据：WEST 简介与视频内容
+   → 视频主人公即 AD 本人，且他拿到一份台本并配合完成演出
+
+附注
+1. 他是那座旧 Minecraft 存档的玩家，对旧存档有真实情感依赖。
+2. 重返后发现基地西侧与记忆不符，旧友闻舟多次阻止他过河。
+3. 在【WEST】中他拿到一份台本并配合完成了演出。
+
+溯源
+- [WIKI] ADsurfb0ard · 人物页
+  https://xikmwiki.rosmontis220.top/人物/ADsurfb0ard/
+- [WIKI] WEST · 视频说明
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/
+- [ARCHIVE] 调查维基 v2 · 录像者甲
+  https://archive.rosmontis220.top/archive/wiki/v2/
+
+本文为基于公开材料的档案式改写，非游戏原文。

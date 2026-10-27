@@ -1,0 +1,33 @@
+﻿ARCHIVIST · LEXICON
+FILE X-031 / 计划代号
+INSIGHT FUTURE THROUGH THE FOG
+
+归属：术语表
+编目范围：术语表
+相关人物：巨爆大黄昏 · SILVERFISH_0
+访问范围：KEY
+
+「穿过迷雾洞察未来」的计划代号；四个词各对应一类操作——观察、投射、跨越、遮蔽。
+
+推演链（定义出处）
+代号本身不是密码，但四个词各对应一类操作，这一点只在 readme 里讲。
+
+1. 载体：wiki v2 附件 readme.zip
+   → 给出计划代号 INSIGHT FUTURE THROUGH THE FOG（穿过迷雾洞察未来）
+2. 术语表归纳
+   → 四个词各对应一类操作——观察、投射、跨越、遮蔽
+3. 与 MIST 的关系
+   → 「雾／MIST」既是代号里的 FOG，也是维吉尼亚密钥；同名不同用
+
+附注
+1. SILVERFISH_0 按「他们」给的这一代号制作大黄昏预言网站并发布预测。
+2. 代号是完整英文短句，不是缩写。
+3. 每个词都承担一类操作，读法本身就是说明。
+
+溯源
+- [ARCHIVE] wiki v2 · readme.zip
+  https://archive.rosmontis220.top/archive/wiki/v2/readme.zip
+- [WIKI] 调查维基 · 术语表
+  https://xikmwiki.rosmontis220.top/世界/术语表/
+
+本文为基于公开材料的档案式改写，非游戏原文。

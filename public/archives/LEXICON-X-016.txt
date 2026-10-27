@@ -1,0 +1,37 @@
+﻿ARCHIVIST · LEXICON
+FILE X-016 / 投影
+Projection
+
+归属：世界观
+编目范围：锚点与投影
+相关人物：ABANDON · 载体
+访问范围：CORE
+
+同一来源对象在不同端的呈现；投影不是副本，端与端之间的差异应被保留，而不是被纠正。
+
+推演链（推断链）
+投影这个概念是被 ABANDON 三端「实证」的：三份程序互不一致，而这种不一致是被要求的。
+
+1. 工具：ABANDON 发布简介
+   → Three projections have been retained. FORM / macOS · ORDER / Windows · WITNESS / Android
+2. 关键句 A projection is not a copy
+   → 差异要被保留，而不是被纠正——直接否定了「副本」说法
+3. 实证：三端各给一份 DAT
+   → FORM 说房间是安全的谎言、ORDER 说序列在事件之后才保留、WITNESS 给出返航记录——同一来源抛出三种口径
+4. 结论
+   → 投影是从同一对象射出、但各自落点不同的材料；判定投影看差异是否被要求保留
+
+附注
+1. ABANDON 三端 FORM / ORDER / WITNESS 是同一来源的三个投影。
+2. 三端都自称 0.0.0，差异不被视为错误。
+3. 同一事件的多份材料共享固定细节，却在人物、地点和时间上对不上。
+
+溯源
+- [WIKI] ABANDON 发布简介
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/ABANDON发布/
+- [WIKI] 三端 DAT 文本
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/
+- [ARCHIVIST] ABANDON · WITNESS 端
+  https://archivist.rosmontis220.top/archive/abandon/witness/
+
+本文为基于公开材料的档案式改写，非游戏原文。

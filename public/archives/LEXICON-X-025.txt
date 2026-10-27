@@ -1,0 +1,37 @@
+﻿ARCHIVIST · LEXICON
+FILE X-025 / XIKM HLQA ONYIEN
+XIKM_HLQA_ONYIEN
+
+归属：档案文明
+编目范围：账号与名字
+相关人物：LAST SAVE BEFORE RAIN · XIKM
+访问范围：CORE
+
+B 站账号串联起的解谜线，从「少了一块的名字」动态开始，经 WEST、fragment、ABANDON 三个视频展开。
+
+推演链（解谜链）
+账号名本身就是第一道密码：整条链有三步，缺一步都得不到真名。
+
+1. 起点：2026-08-21 动态「My name is missing its last piece — CV」
+   → 按图中字母映射补全为 XIKM_HLQA_ONYIEN_QABC
+2. 凯撒：四个词逐词位移 0 / 3 / 1 / 7
+   → XIKM · EINX · NMXHDM · JTUV
+3. 维吉尼亚：以 mist 为密钥解上一步结果
+   → LAST SAVE BEFORE RAIN
+
+未闭合：「HLQA ONYIEN」在凯撒、Atbash、倒序下都解不出有意义文本，暂按风格化 ID 记录。
+
+附注
+1. 补全全名 XIKM_HLQA_ONYIEN_QABC，再经凯撒与维吉尼亚解出真名。
+2. 简介称名字藏在 K317 的描述里，但「我并非那位档案保管员」。
+3. XIKM 更像材料的中转口，而不是任何事件的当事人。
+
+溯源
+- [WIKI] 账号与名字 · 完整破解链
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/账号与名字/
+- [DOC] 腾讯文档《XIKM HLQA ONYIEN 解谜》
+  https://docs.qq.com/doc/DZURVVXJkS1NZWFNq
+- [VIDEO] B 站 XIKM_HLQA_ONYIEN
+  https://space.bilibili.com/3493126603803061
+
+本文为基于公开材料的档案式改写，非游戏原文。

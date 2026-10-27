@@ -1,0 +1,39 @@
+﻿ARCHIVIST · LEXICON
+FILE X-026 / ABANDON
+ABANDON
+
+归属：档案文明
+编目范围：ABANDON发布
+相关人物：投影 · RETAIN 与 THRESHOLD
+访问范围：CORE
+
+2026-08-19 发布的三端解谜游戏；FORM（macOS）、ORDER（Windows）、WITNESS（Android）各 v0.0.0。
+
+推演链（解谜链）
+ABANDON 是三端联动的三层解谜，第四层至今只开了门没进去。
+
+1. 第一层：macOS 记忆排序 / Windows 比较大小 / Android 兔子洞
+   → 三端各得一个 A1 密钥
+2. 第二层：输入另外一端（任选）的 A1，并按同一顺序与四个图案交互
+   → 得三个 A2 密钥
+3. 第三层：输入另外两端的两个 A2
+   → 显示三句话，本端白、另两端灰，随后各产出一个 DAT
+4. 三句话里 FORM WAS NEVER COMPLETE 是提示
+   → 选关界面输入 4 进入隐藏第四关
+
+未闭合：隐藏第四关的密码至今没有解出；三端 DAT 齐备后才能把文件融合进 THRESHOLD。
+
+附注
+1. 三端是同一来源对象的三个投影，差异要保留而不是纠正。
+2. 简介标注 ANCHOR COHERENCE: DEGRADED。
+3. 彼者只造了「一条规则」，房间、钥匙与游戏之形由人的机器赋予。
+
+溯源
+- [WIKI] ABANDON · 玩法与解谜（三层流程）
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/玩法与解谜/
+- [WIKI] 三端 DAT 文本
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/DAT文本/
+- [ARCHIVIST] ABANDON · ORDER 端
+  https://archivist.rosmontis220.top/archive/abandon/order/
+
+本文为基于公开材料的档案式改写，非游戏原文。

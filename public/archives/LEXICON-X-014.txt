@@ -1,0 +1,37 @@
+﻿ARCHIVIST · LEXICON
+FILE X-014 / MIST／雾
+MIST
+
+归属：术语表
+编目范围：术语表
+相关人物：闻舟 · 载体
+访问范围：KEY
+
+旧友闻舟留下的四词首字母：苔藓（moss）、铁（iron）、石头（stone）、火把（torch）。
+
+推演链（解谜链）
+MIST 是全项目复用率最高的密钥，它自己也是被解出来的：四块告示牌的首字母。
+
+1. 起点：WEST 存档里的四块告示牌
+   → 看到苔藓块不要挖 / 地表铁矿不要挖 / 缺口旁边那块石头不要补 / 过最后一根火把就回来
+2. 取四样东西的首字母：moss + iron + stone + torch
+   → MIST（＝雾）
+3. 用它当维吉尼亚密钥解 pack.png ALPHA 通道的密文 EMWW XIKM QQYAF ZWOQZKX
+   → SEED LAST EIGHT REVERSE（种子取最后八位并反转）
+4. 复用：XIKM 真名也用它当密钥
+   → 解出 LAST SAVE BEFORE RAIN
+
+附注
+1. 四词对应 WEST 中「他命名的四样东西」，首字母拼成 MIST。
+2. 以 MIST 为维吉尼亚密钥可解出 SEED LAST EIGHT REVERSE。
+3. 存档告示牌要求不挖苔藓、不挖地表铁、不补石头、过最后一根火把就回来。
+
+溯源
+- [WIKI] WEST · 解谜链与压缩包内二次解谜
+  https://xikmwiki.rosmontis220.top/档案文明/作品/xikm-hlqa-onyien/WEST/
+- [WIKI] 闻舟 · 旧友留下的四个词
+  https://xikmwiki.rosmontis220.top/人物/闻舟/
+- [ARCHIVIST] ABANDON · FORM 端
+  https://archivist.rosmontis220.top/archive/abandon/form/
+
+本文为基于公开材料的档案式改写，非游戏原文。

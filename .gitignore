@@ -1,0 +1,31 @@
+node_modules/
+backups/
+dist/
+.tools/
+*.mp4
+*.blend1
+optix7cache.db
+reference/*.jpg
+reference/**/*.jpg
+art/.cache/
+.worktrees/
+release/
+video/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+reference/local-files-connection.js
+
+# Local integration checkout
+.main-integration/
+
+# Individually licensed MyFonts kit; install locally, never publish to Git.
+public/fonts/novecento/
+.vercel/
+.wrangler/
+
+# 构建残留（Vite 无法就地清空时先挪出来的旧产物）
+_dist-old/

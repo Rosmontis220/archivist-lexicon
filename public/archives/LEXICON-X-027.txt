@@ -1,0 +1,39 @@
+﻿ARCHIVIST · LEXICON
+FILE X-027 / RETAIN 与 THRESHOLD
+RETAIN / THRESHOLD
+
+归属：档案文明
+编目范围：RETAIN与THRESHOLD
+相关人物：ABANDON · 回返
+访问范围：KEY
+
+三端 DAT 齐备后开放的两个后续游戏；RETAIN 可在浏览器直接游玩，THRESHOLD 需融合三个 DAT 进入。
+
+推演链（解谜链）
+终密码是把两个互不相关的答案拼在一起：一个靠走，一个靠查。
+
+1. 三端 DAT 齐备后在 macOS 端融合
+   → 进入新游戏 THRESHOLD，共 6 关迷宫
+2. 走完六关，记录路线图形
+   → 231705
+3. 密码页提示 THE PASSAGE IN THE BIBLE
+   → 按之前的解图方法解出 THEY THAT GO DOWN TO THE SEA IN SHIPS →《诗篇》107:23 → 保留数字 10723
+4. 路线 + 圣经编号拼接
+   → 终密码 23170510723
+5. 输入后得到闻舟与彼者的全英文对话
+   → 即《FULL DIALOGUE：UNSET ENTER》，并给出返航邮件模板
+
+附注
+1. THRESHOLD 共 6 关，迷宫路线图形为 231705。
+2. 终密码 23170510723 = 路线 231705 +《诗篇》107:23。
+3. 通关后得到闻舟与彼者的全英文对话及返航邮件模板。
+
+溯源
+- [WIKI] RETAIN 与 THRESHOLD · 迷宫与终密码
+  https://xikmwiki.rosmontis220.top/档案文明/作品/abandon/RETAIN与THRESHOLD/
+- [ARCHIVIST] RETAIN 线上版
+  https://archivist.rosmontis220.top/archive/retain/
+- [ARCHIVIST] 《FULL DIALOGUE：UNSET ENTER》汉化 PDF
+  https://archivist.rosmontis220.top/archive/download/FULL_DIALOGUE_UNSET_ENTER_汉化_闻舟.pdf
+
+本文为基于公开材料的档案式改写，非游戏原文。

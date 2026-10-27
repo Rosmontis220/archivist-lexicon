@@ -1,0 +1,37 @@
+﻿ARCHIVIST · LEXICON
+FILE X-024 / GitHub 据点
+GitHub Stronghold
+
+归属：Silverfish_0
+编目范围：GitHub据点
+相关人物：邮路终端 · 调查维基
+访问范围：NOTE
+
+Silverfish_0 以 GitHub 账号与仓库构成的发布据点；调查维基、预言与邮路终端都存放在此。
+
+推演链（推断链）
+GitHub 据点的时间线可以完全靠提交历史复原，这是全项目最像「取证」的一段。
+
+1. 账号分界：Silverfish-0 → 0-silverfish
+   → 原账号称遭攻击，2026-09-20 换号
+2. 强制重写：旧提交 6b1ea71 / b65f684
+   → 被 710fb72 / bad843c / 0df8c37 取代，邮路终端上游历史被改写
+3. 内容分界
+   → 换号前是调查维基草稿、forecast、number-of-motion；换号后是 postal-terminal
+4. 结论
+   → 两个账号不是同一时期的两个马甲，而是被迫迁移的两段；调查维基 v3 被覆写成 GOD SAYS 就发生在断档期
+
+附注
+1. 原账号 Silverfish-0 遭攻击，9 月 20 日改号 0-silverfish。
+2. number-of-motion 仓库含《运动之数／本地连续性探针》与两份加密记录。
+3. 换号后邮路终端上游历史被强制重写。
+
+溯源
+- [WIKI] GitHub 据点 · 账号与仓库表
+  https://xikmwiki.rosmontis220.top/Silverfish_0/GitHub据点/
+- [REPO] Silverfish-0/silverfish-0-investigation-wiki
+  https://github.com/Silverfish-0/silverfish-0-investigation-wiki
+- [REPO] 0-silverfish/postal-terminal
+  https://github.com/0-silverfish/postal-terminal
+
+本文为基于公开材料的档案式改写，非游戏原文。

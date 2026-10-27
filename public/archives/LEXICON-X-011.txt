@@ -1,0 +1,35 @@
+﻿ARCHIVIST · LEXICON
+FILE X-011 / 通讯断联
+Communication Blackout
+
+归属：术语表
+编目范围：术语表
+相关人物：盲续态 · 断联协议
+访问范围：KEY
+
+锚域内部继续运转，但所有跨维信号停止；它描述的是信号层的中断，而非整个锚域停摆。
+
+推演链（推断链）
+通讯断联的判据不是「有没有消息」，而是「锚域内部还在不在转」。
+
+1. 工具：v2 术语表
+   → 「锚域内部继续运转，但所有跨维信号停止」
+2. 实例：SILVERFISH_0 断联前档案站命名
+   → 档案站自称「断联前后的完整记录」，说明断联是一次可被归档的时间界，不是世界终结
+3. 判据
+   → 本地连续性仍成立（LOCAL CONTINUITY: CONFIRMED），跨锚点链路归零——两者同时成立才算断联
+
+附注
+1. 断联期间锚域仍在运转，停止的只是跨维信号。
+2. 巨爆大黄昏会令跨维通讯完全断联。
+3. 断联协议规定不把沉默解释成死亡、背叛、拒绝或任务完成。
+
+溯源
+- [WIKI] 调查维基 · 术语表
+  https://xikmwiki.rosmontis220.top/世界/术语表/
+- [ARCHIVE] SILVERFISH_0 档案站首页
+  https://archive.rosmontis220.top/
+- [VIDEO] 【ABANDON】BV1BS876oERG
+  https://www.bilibili.com/video/BV1BS876oERG/
+
+本文为基于公开材料的档案式改写，非游戏原文。
